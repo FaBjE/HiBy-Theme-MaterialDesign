@@ -61,6 +61,7 @@ topbar\pm.png
 topbar\ldac.png
 topbar\src.png
 topbar\aptx.png
+topbar\lo.png
 touch_list\all_item_bg.png
 touch_list\bt_icon.png
 touch_list\line_310.png
