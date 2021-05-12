@@ -1,6 +1,14 @@
 {
 	"viewgroup":{
 		"viewgroup":{
+				"imageview":{
+					"name":"topbar_bg",
+					"img_path":"topbar\\bg.png",
+					"x":0,
+					"y":0,
+					"z":0,
+					"imageview":true
+				},
 				"numview":{
 					"name":"topbar_nv_clock",
 					"img_path":"number\\",
