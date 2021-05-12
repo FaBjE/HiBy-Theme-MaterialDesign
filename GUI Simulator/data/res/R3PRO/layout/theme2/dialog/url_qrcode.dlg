@@ -1,0 +1,28 @@
+{
+	"viewgroup":{
+		"imageview":{
+                "name":"url_qrcode_iv_qrcode",
+				"img_path":"about\\microblog_s.png",
+				"img_focus_path":"about\\post_bar_s.png",
+				"x":13,
+				"y":13,
+				"visible":"hide",
+				"imageview":true
+			},
+		"name":"vg_dialog_url_qrcode",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":186,
+		"h":186,
+		"hglview_x":87,
+		"hglview_y":140,
+		"hglview_w":186,
+		"hglview_h":186,
+		"flag":"dirty",
+		"flag":"dirty",
+		"color":"0xFFFFFF",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

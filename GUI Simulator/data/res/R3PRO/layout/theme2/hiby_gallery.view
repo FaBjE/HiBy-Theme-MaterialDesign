@@ -1,0 +1,25 @@
+{
+	"viewgroup":{
+		"name":"vg_gallery_hiby",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":360,
+		"h":480,
+		"hglview_x":0,
+		"hglview_y":0,
+		"hglview_w":360,
+		"hglview_h":480,
+		"content_x":0,
+		"content_y":0,
+		"content_w":360,
+		"content_h":480,
+		"scroll_max_x":0,
+		"scroll_min_x":0,
+		"flag":"h_scroll",
+		"zorder":900,
+		"img_path":"wifi_transport\\bg.png",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

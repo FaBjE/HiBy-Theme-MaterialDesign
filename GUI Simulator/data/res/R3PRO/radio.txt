@@ -1,0 +1,1132 @@
+
+在线收听中央电台
+cnr, 中国之声, http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+cnr, 经济之声, http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+cnr, 音乐之声, http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+cnr, 相声小品频道, http://ngcdn023.cnr.cn/live/xsxp/index.m3u8
+cnr, 经典音乐广播, http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+cnr, 长篇联播电台, http://ngcdn024.cnr.cn/live/cplb/index.m3u8
+cnr, 中国交通广播（高速公路）, http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+cnr, 文艺之声, http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+cnr, 香港之声, http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+cnr, 中央台古典音乐广播, http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
+cnr, 华夏之声, http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+cnr, 都市之声
+cnr, 中国乡村之声, http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+cnr, 中华之声, http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+cnr, 娱乐之声广播, http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+cnr, 中国民族音乐频道, http://ngcdn022.cnr.cn/live/gdyy/index.m3u8
+cnr, CNR娱乐广播, http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+cnr, 银河网络电台有声阅读频道
+cnr, 老年之声, http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+cnr, 神州之声, http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+cnr, 银河网络电台综合频道
+cnr, 中国民乐广播, http://ngcdn021.cnr.cn/live/zgmy/index.m3u8
+cnr, 中央台哈语广播, http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+cnr, 民族之声, http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+cnr, 中央台维语广播, http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+cnr, 中央台藏语广播, http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+
+
+
+
+
+在线收听中央电台
+cri, HitFM 88.7, http://sk.cri.cn/887.m3u8
+cri, CRI环球资讯广播, http://sk.cri.cn/905.m3u8
+cri, CRI怀旧金曲频道
+cri, CRI轻松调频广播, http://sk.cri.cn/915.m3u8
+cri, CRI英语漫听广播, http://sk.cri.cn/am1008.m3u8
+cri, CRI中文环球广播
+cri, 都市流行音乐广播
+cri, 银河台经典评书广播
+cri, CRI华语环球广播
+cri, 银河台经典评书广播
+cri, CRI写意民谣音乐频道
+cri, CRI Language Studio
+cri, CRI客家之声
+cri, CRI闽南之声
+cri, CRI南海之声, http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
+
+
+
+
+
+在线收听北京电台
+bj, 北京交通广播, http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
+bj, 北京文艺广播, http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
+bj, 北京体育广播, http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
+bj, 北京古典音乐广播, http://audiolive.rbc.cn:1935/live/fm986/96K/tzwj_video.m3u8
+bj, 北京音乐广播, http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+bj, 北京城市广播, http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
+bj, 北京动听调频Metro Radio, http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
+bj, 北京新闻广播, http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
+bj, 北京怀旧金曲广播, http://cnlive.cnr.cn/hls/bjhjjqgb.m3u8
+bj, 北京故事广播, http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
+bj, 北京长书广播, http://audiolive.rbc.cn:1935/live/fm1043/96K/tzwj_video.m3u8
+bj, 经典调频北京FM969
+bj, 北京好音乐广播
+bj, 北京欢乐时光广播, http://123.56.16.201:1935/live/fm1065/96K/tzwj_video.m3u8
+bj, 北京外语广播, http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
+bj, 北京戏曲综艺广播, http://123.56.16.201:1935/live/fm1051/96K/tzwj_video.m3u8
+bj, 北京青年广播, http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+bj, 北京私家车FM99.9
+bj, 北京通俗音乐广播
+bj, 北京阳光调频FM98.6
+bj, 北京教学广播, http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
+bj, 北京爱家广播
+
+
+
+
+
+在线收听天津电台
+tj, 天津交通广播
+tj, 天津相声广播
+tj, 天津新闻广播, http://satellitepull.cnr.cn/live/wxtjxwgb/playlist.m3u8
+tj, 天津音乐广播
+tj, 天津生活广播
+tj, 天津经济广播
+tj, 天津小说广播
+tj, 天津文艺广播
+tj, 天津滨海广播
+tj, 天津农村广播
+tj, 天津古典音乐广播
+tj, 天津音乐中波广播
+tj, 天津外语广播
+tj, 天津北方调频广播
+tj, 天津区县广播
+
+
+
+
+
+在线收听河北电台
+hebei, 河北音乐广播, http://audio1.hebradio.com:1935/live/6.m3u8
+hebei, 河北新闻广播, http://audio1.hebradio.com:1935/live/1.m3u8
+hebei, 河北交通广播, http://audio1.hebradio.com:1935/live/3.m3u8
+hebei, 唐山音乐广播
+hebei, 保定交通广播
+hebei, 河北旅游文化广播, http://audio1.hebradio.com:1935/live/8.m3u8
+hebei, 廊坊戏曲曲艺广播飞扬105
+hebei, 河北文艺广播, http://audio1.hebradio.com:1935/live/4.m3u8
+hebei, 石家庄音乐广播
+hebei, 石家庄经济广播
+hebei, 石家庄新闻广播
+hebei, 河北生活广播, http://audio1.hebradio.com:1935/live/5.m3u8
+hebei, 廊坊新闻综合广播
+hebei, 河北故事广播, http://audio1.hebradio.com:1935/live/2.m3u8
+hebei, 石家庄交通广播
+hebei, 邯郸魅力广播
+hebei, 唐山交通文艺广播
+hebei, 河北农民广播, http://audio1.hebradio.com:1935/live/7.m3u8
+hebei, 邯郸新闻综合广播
+hebei, 沧州交通音乐广播
+hebei, 唐山新闻综合广播
+hebei, 保定城市服务广播
+hebei, 邯郸交通广播
+hebei, 张家口986音乐广播
+hebei, 保定新闻广播
+hebei, 唐山曹妃甸之声小说广播
+hebei, 邯郸音乐广播
+hebei, 河北农村广播
+hebei, 沧州新闻综合广播
+hebei, 承德新闻综合频率
+hebei, 河北经济广播
+hebei, 河北科教·汽车音乐广播, http://audio1.hebradio.com:1935/live/9.m3u8
+hebei, 邯郸戏曲长书广播
+hebei, 石家庄农村广播
+hebei, 唐山娱乐文化广播
+hebei, 秦皇岛经济旅游广播
+hebei, 唐山经济生活广播
+hebei, 保定经济广播
+hebei, 邯郸经济文艺广播
+hebei, 保定城乡联盟电台
+
+
+
+
+
+在线收听山西电台
+shanxi, 太原综合广播
+shanxi, 太原音乐广播
+shanxi, 山西交通广播
+shanxi, 太原交通广播
+shanxi, 山西音乐广播
+shanxi, 太原经济广播
+shanxi, 太原经济广播
+shanxi, 山西文艺广播
+shanxi, 山西故事广播
+shanxi, 山西新闻综合广播
+shanxi, 山西经济广播
+shanxi, 山西农村广播
+shanxi, 吕梁新闻综合广播
+shanxi, 吕梁交通广播
+shanxi, 山西健康广播
+
+
+
+
+
+在线说听内蒙古电台
+nmg, 内蒙古音乐之声, http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+nmg, 内蒙古交通之声, http://satellitepull.cnr.cn/live/wx32nmgjtgb/playlist.m3u8
+nmg, 呼伦贝尔汉语广播, http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+nmg, 内蒙古评书曲艺广播, http://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+nmg, 内蒙古牧区绿野之声, http://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+nmg, 赤峰蒙语广播
+nmg, 包头交通广播
+nmg, 呼伦贝尔城市广播, http://live1.hrtonline.cn:1935/live/live109/64K/tzwj_video.m3u8
+nmg, 内蒙古经济生活广播, http://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+nmg, 内蒙古蒙语广播, http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+nmg, 呼伦贝尔蒙语广播, http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+nmg, 内蒙古汉语新闻广播, http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+nmg, 赤峰交通广播
+nmg, 内蒙古草原之声
+nmg, 包头汽车音乐广播
+nmg, 包头文艺广播
+nmg, 包头FM90.6 auto mate radio
+nmg, 内蒙包头新闻综合广播
+nmg, 赤峰汉语综合广播
+nmg, 包头生活娱乐广播
+nmg, 内蒙古新闻综合广播
+nmg, 呼和浩特新闻综合广播
+nmg, 包头故事曲艺频率
+nmg, 赤峰农牧民文艺广播
+nmg, 牙克石人民广播电台
+nmg, 赤峰文艺广播
+nmg, 锡林格勒汉语综合广播, http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+nmg, 巴彦淖尔交通文艺广播
+nmg, 敕勒川之声爱车资讯广播
+nmg, 巴彦淖尔新闻综合广播河套之声
+nmg, 阿拉善汉语广播, http://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+nmg, 巴彦淖尔城市之声
+nmg, 内蒙古对外广播, http://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+nmg, 锡林格勒蒙语广播, http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
+nmg, 包头城乡音乐频率
+nmg, 包头生活娱乐频率
+nmg, 阿拉善蒙语广播, http://satellitepull.cnr.cn/live/wx32nmgalsmygb/playlist.m3u8
+
+
+
+
+
+在线收听辽宁电台
+ln, 辽宁交通广播, http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+ln, 辽宁之声新闻综合广播, http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+ln, 大连交通广播
+ln, 辽宁都市广播
+ln, 辽宁经济广播, http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+ln, 丹东新闻广播
+ln, 大连新闻广播
+ln, 辽宁文艺广播, http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+ln, 盘锦新闻综合广播
+ln, 抚顺交通广播
+ln, 辽宁乡村广播, http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+ln, 本溪新闻综合广播
+ln, 大连音乐电台easy radio
+ln, 丹东评书广播
+ln, 鞍山新闻广播
+ln, 盘山评书娱乐广播
+ln, 丹东交通广播
+ln, 营口交通文艺广播
+ln, 抚顺新闻广播
+ln, 本溪生活娱乐广播
+ln, 盘山人民广播电台
+ln, 盘锦长书戏曲广播
+ln, 盘锦经济生活广播
+ln, 海城交通娱乐广播
+ln, 大连新城乡广播
+ln, 抚顺音乐广播
+ln, 沈阳声动网络电台
+ln, 本溪交通经济广播
+ln, 辽宁瓢虫电台
+ln, 大连少儿广播
+ln, 盘山音乐广播
+ln, 丹东都市广播
+ln, 盘锦交通文艺广播
+
+
+
+
+
+在线收听吉林电台
+jilin, 长春交通之声, http://stream.chinactv.com/fm6/sd/live.m3u8
+jilin, 吉林新闻综合广播, http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+jilin, 吉林交通广播, http://live.jlradio.net/live/fm1038/543210K/tzwj_video.m3u8
+jilin, 吉林经济广播, http://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
+jilin, 吉林资讯广播
+jilin, 吉林乡村广播, http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+jilin, 吉林市广播电台交通台
+jilin, 长春乡村广播
+jilin, 延广交通文艺广播
+jilin, 吉林市小说长书频率
+jilin, 吉林音乐广播
+jilin, 长春新闻广播
+jilin, 松原评书娱乐频率
+jilin, 延吉阿里郎之声朝鲜语广播
+jilin, 白山交通广播
+jilin, 延边新闻广播, http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+jilin, 延边朝鲜语广播, http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+jilin, 吉林故事广播, http://live.jlradio.net/live/fm1033/543210K/tzwj_video.m3u8
+jilin, 松原交通文艺频率
+jilin, 吉林健康娱乐广播
+jilin, 吉林经济广播
+jilin, 吉林市新闻之声
+jilin, 长春私家车广播
+jilin, 吉林市老年之声广播
+jilin, 敦化人民广播电台
+jilin, 长春经典90激情调频
+jilin, 吉林市汽车生活广播
+jilin, 长春少儿老年生活广播
+jilin, 松原大众生活广播
+jilin, 吉林经济广播旅游893
+jilin, 吉林经济广播健康1251
+jilin, 吉林教育广播
+jilin, 延边朝鲜语广播
+jilin, 松原新闻综合频率
+jilin, 长白山旅游交通广播
+jilin, 吉林经济广播亲爱603
+
+
+
+
+
+在线收听黑龙江电台
+hlj, 黑龙江爱家广播, http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+hlj, 黑龙江都市女性广播, http://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+hlj, 黑龙江交通广播, http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+hlj, 哈尔滨交通广播
+hlj, 大庆交通广播
+hlj, 黑龙江音乐广播, http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+hlj, 哈尔滨音乐广播
+hlj, 黑龙江新闻广播台, http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+hlj, 黑龙江生活广播
+hlj, 龙广青苹果之声 &#038; 黑龙江高校广播, http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+hlj, 黑龙江私家车广播, http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
+hlj, 黑龙江龙广乡村台, http://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+hlj, 大庆长书广播
+hlj, 哈尔滨爱尚调频
+hlj, 大庆音乐广播
+hlj, 哈尔滨经济广播
+hlj, 哈尔滨民生广播
+hlj, 黑龙江北大荒之声
+hlj, 大庆新闻广播
+hlj, 七台河综合广播电台
+hlj, 大庆百湖之声
+hlj, 黑河广播电台
+hlj, 黑龙江朝语广播, http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+hlj, 七台河交通广播
+hlj, 黑龙江朝鲜语广播
+
+
+
+
+
+在线收听上海电台
+sh, 动感101
+sh, 上海魅力103.7 流行音乐
+sh, 上海东广新闻台
+sh, 上海第一财经广播, http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+sh, 上海交通广播
+sh, 上海经典947电台
+sh, 上海KFM981潮流电台
+sh, 上海新闻广播
+sh, 上海五星体育广播
+sh, 上海流行音乐LoveRadio电台
+sh, 上海驾车调频FM89.9
+sh, 上海LoveRadio粤来粤爱
+sh, 上海东方广播电台, http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+sh, 上海沸点100音乐广播
+sh, 动感101泡菜电台
+sh, 上海戏剧曲艺广播
+sh, 上海都市广播
+sh, 东上海之声
+sh, 闵行人民广播电台
+sh, 上海浦江之声电台
+sh, 上海奉贤广播电台阳光FM959
+sh, 上海嘉定人民广播电台
+sh, 上海金山人民广播电台
+sh, 上海奉贤广播电台阳光FM959, http://cnlive.cnr.cn/hls/fxbroadcast.m3u8
+
+
+
+
+
+在线收听江苏电台
+js, 江苏经典流行音乐广播, http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+js, 江苏交通广播, http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
+js, 江苏新闻广播, http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
+js, 苏州音乐广播
+js, 苏州交通广播
+js, 常州经济广播
+js, 苏州生活广播
+js, 江苏魅力音乐897, http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+js, 南京音乐广播
+js, 江苏音乐广播, http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+js, 江苏财经广播, http://lzlive.vojs.cn/caijing/92/live.m3u8
+js, 江苏新闻综合广播, http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+js, 南京新闻广播
+js, 扬州交通广播
+js, 南京交通广播
+js, 江苏故事广播, http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+js, 常熟新闻广播
+js, 苏州新闻广播
+js, 苏州汽车广播
+js, 常州新闻综合广播
+js, 常州音乐广播
+js, 徐州交通广播
+js, 泰州新闻综合广播
+js, 江苏金陵之声, http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
+js, 扬州新闻广播
+js, 常州交通广播
+js, 江苏文艺广播, http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
+js, 无锡江南之声
+js, 扬州流行音乐广播
+js, 无锡经济广播
+js, 无锡汽车音乐广播
+js, 扬州音乐广播 YES FM 949
+js, 无锡都市生活广播
+js, 宜兴新闻广播
+js, 徐州新闻广播
+js, 江苏健康广播, http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+js, 吴江交通音乐广播
+js, 盐城音乐广播
+js, 无锡故事戏曲广播
+js, 金陵之声网络台, http://lzlive.vojs.cn/O7QzcMu/92/live.m3u8
+js, 南京新闻综合广播
+js, 南京体育广播
+js, 无锡交通广播
+js, 常州故事广播
+js, 南京经济广播
+js, 淮安交通文艺广播
+js, 盐城新闻广播
+js, 常州怀旧广播
+js, 盐城交通广播
+js, 南京城市管理广播
+js, 如东新闻综合广播
+js, 徐州文艺广播
+js, 常州戏曲广播
+js, 徐州生活广播
+js, 仪征广播电台
+js, 赣榆广播电台
+js, 无锡资讯广播
+js, 盱眙广播电台
+js, 武进生活广播
+js, 泰州交通音乐广播
+js, 江苏财经广播
+js, 盐城经典调频
+js, 扬州经济生活广播
+js, 淮安经济生活广播
+js, 金坛人民广播电台
+js, 淮安城市管理广播
+js, 泰州经济生活广播
+js, 无锡新闻广播
+js, 常熟琴川音乐广播
+js, 江苏汽车调频金陵之声
+js, 南京私家车广播
+js, 淮安新闻综合广播
+js, 常州资讯娱乐广播
+js, 宜兴交通广播
+js, 盐城黄海明珠广播
+js, 虞城交通音乐广播
+
+
+
+
+
+在线收听浙江电台
+zj, 浙江音乐广播, http://yf.m.l.cztv.com/channels/lantian/audio01/128k.m3u8
+zj, 浙江交通之声, http://yf.m.l.cztv.com/channels/lantian/audio04/128k.m3u8
+zj, 浙江女主播电台, http://yf.m.l.cztv.com/channels/lantian/audio07/128k.m3u8
+zj, 浙江之声电台, http://yf.m.l.cztv.com/channels/lantian/audio02/128k.m3u8
+zj, 杭州MIX907
+zj, 西湖之声
+zj, 杭州交通电台 FM91.8
+zj, 浙江城市之声私家车电台
+zj, 温州私家车音乐广播
+zj, 浙江民生广播996, http://yf.m.l.cztv.com/channels/lantian/audio03/128k.m3u8
+zj, 嘉兴城市生活广播
+zj, 浙江经济广播, http://yf.m.l.cztv.com/channels/lantian/audio05/128k.m3u8
+zj, 绍兴音乐广播, http://stream.sxtv.com.cn/xqgb/sd/live.m3u8
+zj, 温州新闻综合广播
+zj, 温州私家车音乐广播
+zj, 宁波音乐广播私家车986
+zj, 湖州之声新闻广播
+zj, 宁波新闻广播
+zj, 宁波经济广播
+zj, 嘉兴新闻综合广播
+zj, 嘉兴交通经济广播
+zj, 绍兴交通广播, http://stream.sxtv.com.cn/jtgb/sd/live.m3u8
+zj, 温岭人民广播电台1036
+zj, 宁波北仑电台
+zj, 宁波交通广播
+zj, 金华交通广播
+zj, 东阳城市广播
+zj, 湖州交通经济广播
+zj, 绍兴之声新闻广播, http://stream.sxtv.com.cn/zhgb/sd/live.m3u8
+zj, 湖州交通文艺广播（最爱985）
+zj, 温州经济生活广播
+zj, 浙江财富广播
+zj, 温州交通广播
+zj, 宁波阳光调频
+zj, 浙江玉环广播电台
+zj, 舟山交通经济广播
+zj, 萧山人民广播电台
+zj, 金华之声新闻广播
+zj, 舟山新闻综合广播
+zj, 浙江瑞安人民广播电台
+zj, 浙江乐清人民广播电台
+zj, 普陀山人民广播电台
+zj, 临安广播电台乐活广播
+zj, 金华财富音乐广播
+zj, 萧山广播电台有线广播
+zj, 衢州广播新闻电台
+zj, 湖州都市文艺广播
+zj, 兰溪广播电台兰江之声
+zj, 衢州广播交通电台
+
+
+
+
+
+在线收听安徽电台
+ah, 安徽交通广播, http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+ah, 安徽音乐广播, http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+ah, 安徽小说评书广播, http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+ah, 安徽之声新闻广播
+ah, 合肥故事广播
+ah, 合肥交通广播
+ah, 安徽农村广播, http://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
+ah, 安徽戏曲广播, http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+ah, 合肥文艺广播, http://120.193.102.2/hfradio/hfdta178/index.m3u8
+ah, 安徽网络电台音乐频率
+ah, HI FM 97.1 安徽经济广播, http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+ah, 安徽旅游广播
+ah, 安徽城市生活广播, http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+ah, 滁州交通音乐广播
+ah, 安徽天长人民广播电台
+ah, 滁州文艺故事广播
+ah, 合肥新闻综合广播
+ah, 淮北交通广播
+ah, 安徽徽商广播
+ah, 安徽电台旅游广播, http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+ah, 滁州新闻综合广播
+ah, 安徽经济广播
+ah, 淮北经济生活广播
+ah, 安徽网络电台新闻频率
+ah, 宣城交通文艺广播
+ah, 淮北新闻广播
+ah, 宣城新闻综合广播
+
+
+
+
+
+在线收听福建电台
+fj, 福建新闻广播, http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+fj, 福建汽车音乐调频, http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+fj, 泉州904交通之声
+fj, 海峡之声汽车生活广播—交通906
+fj, 福建交通广播
+fj, 厦门经济交通广播, http://cnlive.cnr.cn/hls/xmjjjtgb.m3u8
+fj, 福建987私家车广播
+fj, 福建经济广播, http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+fj, 厦门闽南之声广播, http://cnlive.cnr.cn/hls/xmmnzsgb.m3u8
+fj, 福州交通广播
+fj, 福州893女主播电台 music radio
+fj, 福州左海之声
+fj, 泉州刺桐之声
+fj, 厦门旅游广播, http://cnlive.cnr.cn/hls/xmlygb.m3u8
+fj, 厦门新闻广播, http://cnlive.cnr.cn/hls/xmxwgb.m3u8
+fj, 福州新闻调频广播
+fj, 福建都市广播, http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+fj, 福建东南广播, http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+fj, 漳州广播电台综合频率
+fj, 宁德电台闽东之声
+fj, 福建东南广播
+fj, 德化人民广播电台
+fj, 漳州人民广播电台交通广播
+fj, 漳浦人民广播电台
+fj, 漳州文艺广播
+
+
+
+
+
+在线收听江西电台
+jx, 南昌MY FM96.9
+jx, 江西音乐广播
+jx, 南昌交通音乐广播
+jx, 江西南昌新闻综合广播
+jx, 九江交通广播
+jx, 江西新闻广播
+jx, 南昌One Radio1009
+jx, 九江柴桑之声
+jx, 江西都市广播
+jx, 青山湖之声魅力934
+jx, 赣州交通广播
+jx, 赣州新闻广播
+jx, 赣州音乐广播飞扬945
+jx, 上饶新闻综合广播
+jx, 南昌电台丽人之声
+jx, 江西财经之声·成功992
+jx, 上饶交通音乐广播
+jx, 南昌心怡906音乐故事广播
+jx, 宜春广播明月之声
+jx, 南昌电台财富之声
+jx, 江西农村广播·绿色之声
+jx, 江西民生广播
+jx, 赣州红色广播
+jx, 江西时尚旅游资讯广播
+jx, 江西音乐广播, http://cnlive.cnr.cn/hls/jxyygb.m3u8
+jx, 江西财经广播, http://cnlive.cnr.cn/hls/jxcjgb.m3u8
+jx, 江西新闻广播, http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+jx, 江西都市广播, http://cnlive.cnr.cn/hls/jxdsgb.m3u8
+jx, 江西民生广播, http://cnlive.cnr.cn/hls/jxmsgb.m3u8
+jx, 江西农村广播, http://cnlive.cnr.cn/hls/jxncgb.m3u8
+
+
+
+
+在线收听山东电台
+sd, 青岛经典音乐广播
+sd, 青岛交通广播
+sd, 山东文艺广播, http://cnlive.cnr.cn/hls/sdnzbdt.m3u8
+sd, 山东交通广播, http://cnlive.cnr.cn/hls/sdjtgb.m3u8
+sd, 山东音乐广播动感991, http://cnlive.cnr.cn/hls/sdcszy.m3u8
+sd, 济南新闻广播, http://ts1.ijntv.cn/jnxwpl/sd/live.m3u8
+sd, 山东人民广播电台, http://cnlive.cnr.cn/hls/sdxwgb.m3u8
+sd, 淄博新闻广播
+sd, 济南音乐广播Music887
+sd, 济南经济广播, http://ts1.ijntv.cn/jnjjpl/sd/live.m3u8
+sd, 烟台交通广播
+sd, 山东生活广播, http://cnlive.cnr.cn/hls/sdshgb.m3u8
+sd, 青岛故事广播
+sd, 山东乡村广播, http://cnlive.cnr.cn/hls/sdxcgb.m3u8
+sd, 临沂都市101经济广播
+sd, 济南交通广播, http://ts1.ijntv.cn/jnjtpl/sd/live.m3u8
+sd, 潍坊音乐广播
+sd, 济宁交通广播
+sd, 临沂交通音乐广播
+sd, 山东经济广播, http://cnlive.cnr.cn/hls/sdjjgb.m3u8
+sd, 青岛广播爱车940
+sd, 青岛新闻广播
+sd, 烟台汽车音乐广播
+sd, 山东体育广播, http://cnlive.cnr.cn/hls/sdtygb.m3u8
+sd, 山东女主播电台, http://cnlive.cnr.cn/hls/sdnzbdt.m3u8
+sd, 济宁新闻广播
+sd, 枣庄新闻综合广播
+sd, 淄博交通文艺广播
+sd, 济宁经典890音乐广播
+sd, 山东城市之音, http://cnlive.cnr.cn/hls/sdcszy.m3u8
+sd, 临朐新闻综合广播
+sd, 临沂评书故事广播
+sd, 临沂新闻广播
+sd, 青岛音乐体育广播
+sd, 潍坊新闻广播
+sd, 枣庄音乐广播
+sd, 德州评书故事广播
+sd, 东营交通音乐广播
+sd, 青岛文艺广播
+sd, 滨州交通音乐广播
+sd, 青州广播电台
+sd, 德州交通音乐广播
+sd, 莱州新闻交通广播
+sd, 潍坊933私家车广播
+sd, 淄博音乐广播
+sd, 烟台经济广播
+sd, 德州新闻综合广播
+sd, 潍坊欢乐调频
+sd, 德州文艺生活广播
+sd, 枣庄交通文艺广播
+sd, 临沂文艺广播
+sd, 济宁经济生活广播
+sd, 淄博私家车广播
+sd, 文登人民广播电台
+sd, 烟台新闻广播
+sd, 东营经济广播
+sd, 济南交通广播
+sd, 枣庄生活娱乐广播
+sd, 山东商务广播, http://cnlive.cnr.cn/hls/sdswgb.m3u8
+sd, 青岛经济频率汽车生活广播
+sd, 莱州音乐故事广播
+sd, 临朐交通音乐广播
+sd, 潍坊爱家广播
+sd, 东营新闻广播
+sd, 寒亭音乐广播
+sd, 胶州人民广播电台
+sd, 禹城广播电台
+sd, 章丘新闻综合广播
+
+
+
+
+
+在线收听河南电台
+henan, 郑州电台怀旧好声音
+henan, 洛阳交通广播
+henan, 郑州新闻广播
+henan, 郑州音乐广播
+henan, 河南经典FM广播电台, http://r.yibo.so/live/55801ddeb3ee794c623ff452.m3u8
+henan, 80后音悦台, http://r.yibo.so/live/5746ac3f934ff0e41b1e19b5.m3u8
+henan, 郑州都市交通广播
+henan, 洛阳新闻广播
+henan, 河南FM88.7民歌悠扬
+henan, 焦作交通旅游广播
+henan, 郑州豫剧戏曲广播
+henan, 南阳交通音乐广播
+henan, 南阳新闻广播
+henan, 新乡交通广播
+henan, 周口交通广播电台
+henan, 新乡新闻综合广播
+henan, 商丘交通广播
+henan, 郑州广播549
+henan, 新乡音乐电台飞扬920
+henan, 郑州经济广播
+henan, 漯河交通音乐广播
+henan, 洛阳经济广播
+henan, 郑州文化娱乐广播
+henan, 郑州女性时空广播城市889
+henan, 漯河立体声广播电台
+henan, 信阳车行天下汽车电台
+henan, 漯河城市广播
+henan, 漯河新闻广播
+henan, 爵士FM, http://r.yibo.so/live/589d4e6b2273b659ce4c3ea9.m3u8
+henan, 天籁古典, http://r.yibo.so/live/5950a4a485027b68b9e8be8c.m3u8
+henan, 潮流音悦台, http://r.yibo.so/live/5746ac6e934ff0e41b1e19b6.m3u8
+henan, 摇滚天空台, http://r.yibo.so/live/589d4f122273b659ce4c3ecc.m3u8
+henan, 民谣音乐台, http://r.yibo.so/live/589d4ed02273b659ce4c3eb9.m3u8
+
+
+
+
+在线收听湖北电台
+hubei, 楚天交通广播, http://live7.hbtv.com.cn/masvod/ctjtgb_q1/index.m3u8
+hubei, 湖北经典音乐广播, http://live7.hbtv.com.cn/masvod/hbjdyygb_q1/index.m3u8
+hubei, 湖北私家车交通广播, http://live7.hbtv.com.cn/masvod/hbsjcgb_q1/index.m3u8
+hubei, 楚天音乐广播, http://live7.hbtv.com.cn/masvod/ctyygb_q1/index.m3u8
+hubei, 武汉音乐广播
+hubei, 湖北之声广播, http://live7.hbtv.com.cn/masvod/hbzs_q1/index.m3u8
+hubei, 武汉交通广播
+hubei, 湖北农村广播, http://live7.hbtv.com.cn/masvod/hbncgb_q1/index.m3u8
+hubei, 湖北生活广播, http://live7.hbtv.com.cn/masvod/hbshgb_q1/index.m3u8
+hubei, 武汉新闻广播
+hubei, 湖北经济广播, http://live7.hbtv.com.cn/masvod/hbjjgb_q1/index.m3u8
+hubei, 武汉长江经济广播
+hubei, 湖北资讯广播, http://live7.hbtv.com.cn/masvod/hbzxgb_q1/index.m3u8
+hubei, 咸宁新闻广播
+hubei, 湖北时尚女性广播, http://live7.hbtv.com.cn/masvod/hbfnetgb_q1/index.m3u8
+hubei, 湖北农村广播
+hubei, 黄石交通经济广播
+hubei, 黄石新闻广播
+hubei, 武汉少儿广播（品味936）
+hubei, 黄石电台磁湖之声
+
+
+
+
+
+在线收听湖南电台
+hunan, 长沙Big Radio快乐886
+hunan, 湖南金鹰955电台, http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+hunan, 湖南交通广播
+hunan, 长沙城市之声（音乐优电台）
+hunan, 湖南975摩登音乐台
+hunan, 湖南汽车音乐电台893
+hunan, 株洲音乐广播
+hunan, 湖南新闻综合广播, http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+hunan, 湖南潇湘之声News938广播
+hunan, 长沙新闻广播
+hunan, 株洲新闻广播
+hunan, 长沙品味音乐广播
+hunan, 湖南经济广播（魅力901）
+hunan, 湖南金鹰电台955, http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+hunan, 株洲交通广播
+hunan, 长沙交通
+hunan, 湖南旅游故事广播, http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+hunan, 湖南芒果网络广播电台
+hunan, 长沙幸福999电台
+hunan, 邵阳交通广播
+hunan, 岳阳新闻综合广播
+hunan, 大眼睛湘潭1065电台
+hunan, 大眼睛南昌897电台
+hunan, 芒果Radio永州之声
+hunan, 岳阳交通广播
+hunan, 湖南湘潭之声, http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+hunan, 湖南旅游故事广播
+hunan, 湖南乡村之声绿色938
+hunan, 芒果Radio益阳电台
+hunan, 芒果Radio湘西之声
+hunan, 芒果Radio郴州之声
+hunan, 浏阳交通生活广播
+hunan, 芒果Radio张家界之声
+hunan, 湖南攸县广播电台
+
+
+
+
+
+在线收听广东电台
+gd, 广东股市广播, http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+gd, 怀集音乐之声, http://cnlive.cnr.cn/hls/hjyyzs.m3u8
+gd, 广东音乐之声, http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+gd, 广东珠江经济广播, http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+gd, 中山电台快乐888
+gd, 羊城交通广播, http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+gd, 广州新闻资讯广播
+gd, 佛山电台真爱946
+gd, 深圳音乐广播飞扬971, http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+gd, 广东文体广播, http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+gd, 佛山电台飞跃924
+gd, 广州交通广播
+gd, 深圳交通广播, http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+gd, 佛山电台千色985
+gd, 广东城市之声
+gd, 广州MYFM 88.0
+gd, 广东新闻广播, http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+gd, 广州汽车音乐广播
+gd, 广东郁南音乐台
+gd, 广东鹤山广播电台
+gd, 潮州电台戏曲广播
+gd, 佛山电台顺德901
+gd, 开平广播电台飞扬956
+gd, 惠州电台阳光100
+gd, 佛山电台缤纷906
+gd, 深圳新闻广播先锋898
+gd, 东莞交通音乐广播
+gd, 台山广播电台
+gd, 中山电台新锐967
+gd, 广州电台花都广播
+gd, 潮州电台综合广播
+gd, 江门旅游音乐广播
+gd, 江门新闻综合广播
+gd, 广东南粤之声优悦广播
+gd, 怀集网络电台
+gd, 深圳宝安电台缤纷1043
+gd, 汕头新闻资讯之声
+gd, 深圳生活频率
+gd, 东莞新闻综合广播
+gd, 汕头交通音乐之声
+gd, 珠海资讯广播先锋951
+gd, 佛山电台畅游883
+gd, 南方生活广播, http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+gd, 潮州电交通音乐广播
+gd, 汕头生活之声
+gd, 惠州交通广播
+gd, 广东梅州新闻广播
+gd, 广东梅州交通广播
+gd, 珠海交通文艺广播
+gd, 龙岗电台星光991
+gd, 宝安电台流连1015
+gd, 清远交通旅游广播
+gd, 广东连州广播电台
+gd, 清远新闻综合广播
+gd, 东莞综合广播(FM100.8MHz), http://mtv.sun0769.com/dgrtv1/mp4:tv10/index.m3u8
+gd, 东莞交通广播(FM107.5MHz), http://mtv.sun0769.com/dgrtv1/mp4:tv11/index.m3u8
+gd, 东莞音乐广播(FM104.0MHz), http://mtv.sun0769.com/dgrtv1/mp4:tv12/index.m3u8
+
+
+
+
+
+在线收听广西电台
+gx, 广西970女主播, http://media.bbrtv.com:1935/live/_definst_/970/playlist.m3u8
+gx, 广西私家车930广播, http://media.bbrtv.com:1935/live/_definst_/930/playlist.m3u8
+gx, 广西音乐广播 FM95.0, http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+gx, 广西新闻综合广播, http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+gx, 广西交通广播, http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+gx, 广西港金曲1019电台
+gx, 广西950音乐广播
+gx, 梧州交通音乐广播
+gx, 桂林新闻综合广播
+gx, 柳州新闻广播
+gx, 柳州交通广播
+gx, 玉林交通音乐广播
+gx, 梧州资讯广播
+gx, 钦州新闻综合广播
+gx, 广西经济广播, http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+gx, 广西教育生活广播, http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+gx, 玉林新闻综合广播
+gx, 桂林电台最爱912
+gx, 钦州电台音乐广播
+gx, 桂林飞扬调频
+gx, 飞扬1059（柳州汽车音乐广播）
+gx, 贺州新闻综合广播
+gx, 广西北部湾之声
+gx, 百色音乐广播
+gx, 广西文艺广播, http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+gx, 贺州交通音乐广播
+gx, 河池人民广播电台
+gx, 百色新闻综合广播
+gx, 广西对外广播, http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+
+
+
+
+
+在线收听海南电台
+hainan, 海南音乐广播, http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+hainan, 海南交通广播, http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+hainan, 海南新闻广播, http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+hainan, 海南旅游广播
+hainan, 海南民生广播
+hainan, 海南文艺广播, http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+
+
+
+
+
+在线收听重庆电台
+cq, 重庆文艺广播, http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+cq, 重庆音乐广播, http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+cq, 重庆之声-（原新闻广播）, http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+cq, 重庆都市广播 私家车, http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+cq, 重庆交通广播, http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+cq, 重庆经济广播, http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
+cq, 开县人民广播电台
+
+
+
+
+
+在线收听四川电台
+sc, 成都唯一音乐广播Only Radio
+sc, 四川岷江音乐频率, http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+sc, 四川交通广播, http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+sc, 四川城市之音City FM, http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+sc, 成都交通广播
+sc, 四川新闻综合广播, http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+sc, 成都新闻广播
+sc, 成都故事广播
+sc, 四川电台经济频率, http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+sc, 四川天府之声
+sc, 四川新闻综合频率
+sc, 成都休闲文化广播
+sc, 四川文艺广播, http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+sc, 成都简单音乐广播
+sc, 四川私家车广播, http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+sc, 四川旅游生活广播, http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+sc, 成都经济频率
+sc, 成都飞跃调频DJOK
+sc, 西昌人民广播电台
+sc, 四川民族广播, http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+sc, 四川经济频率爱家广播
+
+
+
+
+
+在线收听贵州电台
+gz, 贵阳音乐广播（动感909）
+gz, 贵州交通广播, http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+gz, 贵州音乐广播, http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+gz, 贵州经济广播, http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+gz, 贵州故事广播, http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+gz, 贵阳交通文艺广播
+gz, 黔西南交通旅游广播
+gz, 铜仁新闻综合广播
+gz, 贵州新闻广播
+gz, 贵阳都市女性广播
+gz, 贵州旅游广播, http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+gz, 贵州都市广播
+gz, 黔东南人民广播电台
+gz, 黔西南新闻广播
+
+
+
+
+
+在线收听云南电台
+yn, 云南交通广播, http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+yn, 云南音乐广播, http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+yn, 云南新闻广播, http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+yn, 昆明汽车广播
+yn, 昆明都市调频
+yn, 云南教育广播新知FM100
+yn, 楚雄音乐广播, http://live.cxgb.net:1935/live/live101/64K/tzwj_video.m3u8
+yn, 昆明电台阳光频率
+yn, 云南香格里拉之声, http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+yn, 楚雄新闻广播, http://live.cxgb.net:1935/live/live102/64K/tzwj_video.m3u8
+yn, 云南农村广播
+yn, 云南经济广播, http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+yn, 云南旅游广播香格里拉之声
+yn, 云南少儿广播
+yn, 云南民族广播, http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+yn, 昆明幸福老年频道
+yn, 西双版纳汉语广播
+yn, 西双版纳民语广播
+
+
+
+
+
+在线收听西藏电台
+xz, 西藏藏语新闻综合广播
+xz, 西藏汉语新闻广播
+xz, 西藏都市生活广播
+xz, 西藏康巴广播
+xz, 西藏对外交通广播, http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
+xz, 西藏藏语广播, http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+xz, 西藏汉语广播, http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+xz, 西藏藏语康巴方言, http://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8
+xz, 西藏都市生活广播, http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
+
+
+
+
+
+在线收听陕西电台
+sx, 陕西都市广播·陕广新闻
+sx, 陕西新闻广播
+sx, 陕西交通广播
+sx, 西安音乐广播, http://stream3.xiancity.cn/4/sd/live.m3u8
+sx, 西安交通广播, http://stream3.xiancity.cn/5/sd/live.m3u8
+sx, 陕西青春广播 1055 Hi Radio
+sx, 西咸之声 咸阳人民广播电台
+sx, 陕西秦腔广播
+sx, 陕西音乐广播
+sx, 陕西农村广播
+sx, 陕西汽车调频
+
+sx, 西安新闻广播, http://stream3.xiancity.cn/1/sd/live.m3u8
+sx, 陕西故事广播
+sx, 陕西戏曲广播
+sx, 陕西汉中音乐广播
+sx, 西安资讯广播, http://stream3.xiancity.cn/2/sd/live.m3u8
+sx, 陕西未央人民广播电台
+
+
+
+
+
+在线收听甘肃电台
+gs, 兰州交通音乐广播
+gs, 甘肃新闻综合频率, http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+gs, 甘肃都市调频广播, http://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+gs, 兰州新闻综合广播
+gs, 甘肃青春调频1048女主播
+gs, 甘肃交通广播, http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
+gs, 兰州生活文艺广播
+gs, 甘肃天水新闻综合广播
+gs, 甘肃农村广播乡村之音
+gs, 甘肃经济广播
+gs, 甘肃黄河之声, http://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+gs, 甘肃少儿广播
+gs, 甘肃白银人民广播电台
+
+
+
+
+
+在线收听青海电台
+qh, 青海交通音乐广播, http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+qh, 青海藏语广播, http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
+qh, 青海新闻综合广播, http://satellitepull.cnr.cn/live/wx32qhxwzhgb/playlist.m3u8
+qh, 青海经济广播, http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+
+
+
+
+
+在线收听宁夏电台
+nx, 宁夏交通广播
+nx, 宁夏经济广播
+nx, 宁夏都市广播
+nx, 宁夏新闻广播
+
+
+
+
+
+在线收听新疆电台
+xj, 乌鲁木齐新闻广播
+xj, 新疆交通广播
+xj, 新疆音乐广播MYFM103.9
+xj, 伊犁新闻综合广播
+xj, 新疆维语交通文艺广播
+xj, 新疆汉语新闻广播
+xj, 新疆990新闻音乐广播
+xj, 乌鲁木齐交通广播
+xj, 伊犁城市音乐广播
+xj, 新疆城市广播
+xj, 新疆故事广播
+xj, 新疆哈萨克语广播
+xj, 新疆维吾尔语综合广播
+xj, 伊犁交通音乐广播
+xj, 伊犁维语综合广播
+xj, 乌鲁木齐旅游音乐广播
+xj, 新疆奇台新闻综合广播
+xj, 乌鲁木齐维语综合广播
+xj, 新疆民生广播
+xj, 克拉玛依新闻综合广播
+xj, 乌鲁木齐综合广播
+xj, 克拉玛依都市广播
+xj, 伊犁哈萨克语综合广播
+xj, 伊犁经济广播, http://sk.cri.cn/887.m3u8
+xj, 乌鲁木齐经济广播
+xj, 新疆蒙柯语广播
+xj, 新疆新闻广播, http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+xj, 伊犁经济广播, http://sk.cri.cn/887.m3u8
+xj, 新疆蒙语广播, http://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8
+xj, 新疆绿色广播, http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
+xj, 新疆私家车广播, http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+xj, 新疆哈语广播, http://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8
+xj, 新疆维吾尔语综合广播, http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8
+xj, 新疆维语交通文艺广播, http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
+xj, 新疆交通广播, http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+
+
+
+
+英语电台
+english, 
+
+
+
+
+
+德语电台
+germany, 
+
+
+
+
+
+德语电台
+france, 
+
+
+
+
+
+粤语电台
+hk, 
+
+
+
+
+
+网络电台
+web, 青苹果音乐电台
+web, AsiaFM亚洲经典台
+web, iRadio网络音乐台
+web, 猫扑电台
+web, AsiaFM HD音乐台
+web, 完美音乐在线电台
+web, AsiaFM亚洲天空台
+web, 中国校园之声
+web, 话匣子电台
+web, AsiaFM亚洲音乐台
+web, 清晨音乐台
+web, F-radio 花开网络电台
+web, 积木音乐台
+web, OnFM线上音乐台
+web, WRadio口袋电台
+web, 蝠声广播【失效】
+web, 中国公益之声
+
+
+
+
+

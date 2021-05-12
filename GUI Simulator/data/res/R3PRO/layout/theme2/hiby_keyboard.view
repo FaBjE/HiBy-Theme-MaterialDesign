@@ -1,0 +1,18 @@
+{
+	"viewgroup":{
+		"name":"vg_keyboard_hiby",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":360,
+		"h":182,
+		"hglview_x":0,
+		"hglview_y":298,
+		"hglview_w":360,
+		"hglview_h":182,
+		"flag":"h_scroll",
+		"zorder":610,
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

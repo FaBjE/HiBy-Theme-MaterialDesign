@@ -1,0 +1,74 @@
+﻿Attention! Do not modify any folder names in this compressed file! Otherwise it will damage your R3PRO device.
+
+
+1. Carefully view images "GUI Elements folder description" to operate.
+
+2. Open "GUI Simulator" and double-click "Run R3Pro Simulator.bat" to run the GUI Simulator.
+
+3. Copy the song(s) into the "GUI Simulator\data\sys" directory and scan the emulator if you want to simulate playing music files.
+
+4. Click "System Settings" - "Theme Style" Select the theme on the right (To activate the "editable" 'theme2') and click OK.
+
+5. To modify the Theme:
+  (1) Image resources:                      GUI Simulator\data\res\R3PRO\fonts              [Double-click "Open Theme - Resource directory.bat" to open].
+  (2) Layout (coordinates, color, size)     GUI Simulator\data\res\R3PRO\layout\theme2      [Double-click "Open Theme - Layout directory.bat" to open].
+  (3) Font library                          GUI Simulator\data\res\R3PRO\litegui\theme2     [Double-click "Open Theme - Font directory.bat" to open].
+  (4) Simulated MicroSD data folder         GUI Simulator\data\sys                          [Double-click "Open Virtual MicroSD directory.bat" to open].
+
+   IMPORTANT: To apply changes in theme files, restart the simulator. (press the backspace key on the keyboard) 
+               and re-run "Run R3Pro Simulator.bat" (some modifications do not need to restart the program).
+  
+   Warning: The directory structure and file name cannot be modified.
+
+   
+7. Generate theme packages:
+   (1) Open the "Buildscripts" folder.
+   (2) The version value under "Buildscripts\version.txt" needs to be the same as the target player firmware version number.
+   (3) Run the "Build compressed theme file.bat" to compress "theme2" to theme package.
+   (4) Enter the subject package name (Note: there can be no spaces between the names).
+
+8. Test theme package on GUI simulator:
+   (1) Put the generated *.t theme package on folder: \data\sys\theme\
+   (2) Click "System Settings" - "Theme Style" - "Use External Theme", select the corresponding theme package.
+
+9. Use the theme package on player:
+   (1) Manually create a "theme" folder in the Micro SD card root directory.
+   (2) Copy the generated theme package *.t into the theme directory of the SD card.
+   (3) Insert the SD card containing the theme package into the R3PRO machine.
+   (4) Click <System Settings>--<Theme Style>--<Use custom Theme> on R3PRO, and select the corresponding theme.
+
+
+
+
+
+
+
+
+
+[GUI Simulator event generation / keyboard mapping]
+
+ (1) Mouse click: Simulate a finger touch click.
+
+ (2) Press (and hold) the left mouse button and move the mouse to simulate a finger slide.
+
+ (3) Physical button: PC keyboard button:
+
+  Volume +              Right arrow key (→)
+
+  Volume -              Left arrow key (←)
+
+  USB insert:           F1
+
+  USB disconnect:       F2
+
+  Bluetooth connect:    F3
+
+  Bluetooth diconnect:  F4
+
+  MicroSD insertion:    F5
+
+  MicroSD Removal:      F6
+
+  Shutdown button: 		Backspace
+
+

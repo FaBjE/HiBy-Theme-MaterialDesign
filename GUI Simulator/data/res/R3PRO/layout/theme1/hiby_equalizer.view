@@ -1,0 +1,28 @@
+{
+	"viewgroup":{
+		"viewgroup":{
+			"name":"equalizer_vg_top",
+			"type":"lg_view",
+			"x":0,
+			"y":68,
+			"w":360,
+			"h":420,
+			"viewgroup":true
+		},
+		"name":"vg_equalizer_hiby",
+		"type":"hgl_view",
+		"x":0,
+		"y":68,
+		"w":720,
+		"h":420,
+		"hglview_x":0,
+		"hglview_y":68,
+		"hglview_w":720,
+		"hglview_h":420,
+		"zorder":280,
+		"flag":"h_scroll",
+		"color":"0x333333",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

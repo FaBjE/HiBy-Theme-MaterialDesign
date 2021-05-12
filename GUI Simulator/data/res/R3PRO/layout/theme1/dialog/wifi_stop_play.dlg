@@ -1,0 +1,31 @@
+{
+	"viewgroup":{
+		"textview":{
+				"name":"tv_stop_play",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|h_center",
+				"ini":"wifi_song.ini",
+				"text":"stop_play",
+				"x":0,
+				"y":72,
+				"w":300,
+				"h":33,
+				"textview":true
+			},
+		"name":"vg_dialog_wifi_stop_play",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":300,
+		"h":186,
+		"hglview_x":30,
+		"hglview_y":147,
+		"hglview_w":300,
+		"hglview_h":186,
+		"flag":"dirty",
+		"img_path":"touch_set\\msg_bg.png",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

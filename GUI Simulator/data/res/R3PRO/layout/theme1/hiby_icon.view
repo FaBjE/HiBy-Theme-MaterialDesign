@@ -1,0 +1,32 @@
+{
+	"viewgroup":{
+		"imageview":{
+				"name":"icon_iv_hiby",
+				"img_path":"settings\\hiby_icon.png",
+				"x":51,
+				"y":41,
+				"imageview":true
+		},
+		"name":"vg_icon_hiby",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":220,
+		"h":110,
+		"hglview_x":0,
+		"hglview_y":0,
+		"hglview_w":220,
+		"hglview_h":110,
+		"content_x":0,
+		"content_y":0,
+		"content_w":220,
+		"content_h":110,
+		"scroll_max_x":0,
+		"scroll_min_x":-20,
+		"flag":"static",
+		"zorder":-4,
+		"img_path":"touch_set\\icon_bg.png",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"viewgroup":{
+		"textview":{
+				"name":"tv_name_repeat",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|h_center",
+				"ini":"keyborad.ini",
+				"text":"name_empty",
+				"measure":1,
+				"x":10,
+				"y":58,
+				"w":280,
+				"h":70,
+				"textview":true
+			},
+		"name":"vg_dialog_name_empty",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":300,
+		"h":186,
+		"hglview_x":30,
+		"hglview_y":147,
+		"hglview_w":300,
+		"hglview_h":186,
+		"flag":"dirty",
+		"img_path":"touch_set\\msg_bg.png",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}

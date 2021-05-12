@@ -1,0 +1,1 @@
+call %SystemRoot%\explorer.exe "data\res\R3PRO\litegui\theme2"
