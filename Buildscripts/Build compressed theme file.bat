@@ -15,8 +15,8 @@ echo (2) Copy the generated theme package *.t into the theme directory of the SD
 echo (3) Insert the SD card containing the theme package into the R3PRO machine.
 echo (4) Click ^<System Settings^>--^<Theme Style^>--^<Use custom Theme^> on R3PRO, and select the corresponding theme.
 echo=
-set ver=
-set /p ver=Enter a Theme name (NO SPACES): 
+set ver="MaterialDesign"
+:: set /p ver=Enter a Theme name (NO SPACES): 
 
 set base_dir="..\GUI Simulator"
 
