@@ -1,0 +1,3 @@
+no_skin_list.txt
+	This file contains all PNG images that the "Theme color" must NOT be applied to.
+	Otherwise colors in the image will be "blend/replaced" with the selected theme color.
