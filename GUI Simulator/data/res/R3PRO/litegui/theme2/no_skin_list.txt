@@ -158,3 +158,4 @@ tune\right.png
 bt\ldac.png
 screensavers\bg.png
 screensavers\text_bg.png
+module_label\pause.png
