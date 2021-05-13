@@ -5,7 +5,7 @@
 				"name":"settings_iv_scan",
 				"img_path":"side_menu\\scan.png",
 				"x":8,
-				"y":9,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -35,7 +35,7 @@
 				"name":"settings_iv_wifi_rev_song",
 				"img_path":"side_menu\\wifi_rev_song.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -65,7 +65,7 @@
 				"name":"settings_iv_mseb",
 				"img_path":"side_menu\\mseb.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -95,7 +95,7 @@
 				"name":"settings_iv_eq",
 				"img_path":"side_menu\\eq.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -125,7 +125,7 @@
 				"name":"settings_iv_ebook",
 				"img_path":"side_menu\\ebook.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -155,7 +155,7 @@
 				"name":"settings_iv_step",
 				"img_path":"side_menu\\step.png",
 				"x":8,
-				"y":9,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -184,7 +184,7 @@
 				"name":"settings_iv_net_set",
 				"img_path":"side_menu\\net_set.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -214,7 +214,7 @@
 				"name":"settings_iv_play_set",
 				"img_path":"side_menu\\play_set.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -244,7 +244,7 @@
 				"name":"settings_iv_sys_set",
 				"img_path":"side_menu\\sys_set.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
@@ -274,7 +274,7 @@
 				"name":"settings_iv_about",
 				"img_path":"side_menu\\about.png",
 				"x":8,
-				"y":6,
+				"y":8,
 				"imageview":true
 			},
 			"textview":{
