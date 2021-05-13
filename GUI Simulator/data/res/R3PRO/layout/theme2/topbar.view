@@ -55,7 +55,7 @@
 					"img_path_5":"topbar\\a2dp.png",
 					"img_path_6":"topbar\\adb.png",
 					"x":43,
-					"y":2,
+					"y":3,
 					"imageview":true
 				},
 				"imageview":{
@@ -63,7 +63,7 @@
 					"img_path":"topbar\\pause.png",
 					"img_focus_path":"topbar\\play.png",
 					"x":77,
-					"y":4,
+					"y":5,
 					"imageview":true
 				},
 				"imageview":{
@@ -109,7 +109,7 @@
 					"img_path_1":"topbar\\battery_charge_bg.png",
 					"img_focus_path":"topbar\\battery.png",
 					"x":336,
-					"y":4,
+					"y":5,
 					"imageview":true
 				},
 				"imageview":{
