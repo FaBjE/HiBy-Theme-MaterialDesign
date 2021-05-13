@@ -2,9 +2,9 @@
 	"viewgroup":{
 		"imageview":{
 				"name":"icon_iv_hiby",
-				"img_path":"side_menu\\hiby_icon.png",
-				"x":33,
-				"y":30,
+				"img_path":"side_menu\\hiby_icon_small.png",
+				"x":90,
+				"y":28,
 				"imageview":true
 		},
 		"name":"vg_icon_hiby",
@@ -12,20 +12,20 @@
 		"x":0,
 		"y":0,
 		"w":250,
-		"h":120,
+		"h":64,
 		"hglview_x":0,
 		"hglview_y":0,
 		"hglview_w":250,
-		"hglview_h":120,
+		"hglview_h":64,
 		"content_x":0,
 		"content_y":0,
 		"content_w":250,
-		"content_h":120,
+		"content_h":64,
 		"scroll_max_x":0,
 		"scroll_min_x":-20,
 		"flag":"static",
 		"zorder":-4,
-		"img_path":"side_menu\\icon_bg.png",
+		"img_path":"side_menu\\icon_bg_small.png",
 		"viewgroup":true,
 		"add_layout":true
 	}
