@@ -66,7 +66,7 @@
 		"textview":{
 			"name":"playing_plane_tv_seeking_time",
 			"size":14,
-			"color":"0xffffff",
+			"color":"0xc0c0c0",
 			"type":"static|left",
 			"ini":"music.ini",
 			"text":"",
@@ -79,7 +79,7 @@
 		"textview":{
 			"name":"playing_plane_tv_total_time",
 			"size":14,
-			"color":"0xffffff",
+			"color":"0xc0c0c0",
 			"type":"static|h_right",
 			"ini":"music.ini",
 			"text":"",
@@ -92,7 +92,7 @@
 		"textview":{
 			"name":"playing_plane_tv_song_count",
 			"size":14,
-			"color":"0xffffff",
+			"color":"0xc0c0c0",
 			"type":"static|h_center",
 			"ini":"music.ini",
 			"text":"",
@@ -162,13 +162,13 @@
 		"textview":{
 			"name":"playing_plane_tv_music_artist",
 			"size":14,
-			"color":"0xffffff",
+			"color":"0xd0d0d0",
 			"type":"static|left",
 			"ini":"music.ini",
 			"text":"unknown_artist",
 			"x":6,
 			"y":314,
-			"w":172,
+			"w":323,
 			"h":24,
 			"textview":true
 		},
@@ -189,13 +189,13 @@
 		"textview":{
 			"name":"playing_plane_tv_bit_info",
 			"size":14,
-			"color":"0xffffff",
+			"color":"0xc0c0c0",
 			"type":"static|h_right",
 			"ini":"music.ini",
 			"text":"unknown",
-			"x":268,
+			"x":238,
 			"y":314,
-			"w":86,
+			"w":116,
 			"h":24,
 			"textview":true
 		},
