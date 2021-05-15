@@ -25,6 +25,13 @@
 			"imageview":true
 		},
 		"imageview":{
+			"name":"playing_plane_iv_control_bg",
+			"img_path":"play_plane\\buttom_bg.png",
+			"x":0,
+			"y":360,
+			"imageview":true
+		},
+		"imageview":{
 			"name":"playing_plane_iv_play_mode",
 			"img_path_0":"play_plane\\random.png",
 			"img_path_1":"play_plane\\order.png",
