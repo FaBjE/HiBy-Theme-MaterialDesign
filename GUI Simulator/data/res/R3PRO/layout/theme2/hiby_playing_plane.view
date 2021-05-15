@@ -5,7 +5,7 @@
 			"img_path":"play_plane\\default_cover.png",
 			"img_path_1":"play_plane\\default_cover_radio.png",
 			"x":0,
-			"y":0,
+			"y":20,
 			"dither":1,
 			"imageview":true
 		},
@@ -13,8 +13,7 @@
 			"name":"playing_plane_iv_album_shadow",
 			"img_path":"play_plane\\album_shadow.png",
 			"x":0,
-			"y":300,
-			"visible":"hide",
+			"y":296,
 			"imageview":true
 		},
 		"imageview":{
