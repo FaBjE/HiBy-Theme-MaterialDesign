@@ -159,3 +159,4 @@ bt\ldac.png
 screensavers\bg.png
 screensavers\text_bg.png
 module_label\pause.png
+play_plane\default_cover.png
