@@ -55,9 +55,9 @@
 			"imageview":{
 				"name":"listview_collect_iv_menu",
 				"img_path":"list\\edit_down.png",
-				"img_focus_path":"list\\edit_down.png",
+				"img_focus_path":"list\\edit_down_s.png",
 				"x":332,
-				"y":43,
+				"y":35,
 				"visible":"hide",
 				"imageview":true
 			},
