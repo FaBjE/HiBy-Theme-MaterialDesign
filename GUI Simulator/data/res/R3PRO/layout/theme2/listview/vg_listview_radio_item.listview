@@ -20,7 +20,7 @@
 			},
 			"imageview":{
 				"name":"listview_radio_item_iv_menu",
-				"img_path":"list\\edit_down.png",
+				"img_path":"list\\list_closed.png",
 				"img_path_1":"list\\list_enter.png",
 				"x":332,
 				"y":43,
