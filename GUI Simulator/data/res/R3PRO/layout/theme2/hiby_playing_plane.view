@@ -1,36 +1,28 @@
 {
 	"viewgroup":{
 		"imageview":{
+			"name":"playing_plane_iv_control_panel",
+			"img_path":"play_plane\\bg.png",
+			"x":0,
+			"y":0,
+			"dither":0,
+			"imageview":true
+		},
+		"imageview":{
+			"name":"playing_plane_iv_cover_border",
+			"img_path":"play_plane\\default_cover_border.png",
+			"x":0,
+			"y":0,
+			"dither":0,
+			"imageview":true
+		},
+		"imageview":{
 			"name":"playing_plane_iv_cover",
 			"img_path":"play_plane\\default_cover.png",
 			"img_path_1":"play_plane\\default_cover_radio.png",
-			"x":0,
-			"y":20,
-			"w":360,
-			"h":360,
-			"dither":1,
-			"imageview":true
-		},
-		"imageview":{
-			"name":"playing_plane_iv_album_shadow",
-			"img_path":"play_plane\\album_shadow.png",
-			"x":0,
-			"y":20,
-			"imageview":true
-		},
-		"imageview":{
-			"name":"playing_plane_iv_control_panel",
-			"img_path":"play_plane\\buttom_bg.png",
-			"x":0,
-			"y":380,
-			"dither":1,
-			"imageview":true
-		},
-		"imageview":{
-			"name":"playing_plane_iv_control_bg",
-			"img_path":"play_plane\\buttom_bg.png",
-			"x":0,
-			"y":380,
+			"x":30,
+			"y":75,
+			"dither":0,
 			"imageview":true
 		},
 		"imageview":{
@@ -71,7 +63,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":6,
-			"y":393,
+			"y":400,
 			"w":100,
 			"h":18,
 			"textview":true
@@ -84,7 +76,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":254,
-			"y":393,
+			"y":400,
 			"w":100,
 			"h":18,
 			"textview":true
@@ -97,7 +89,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":105,
-			"y":393,
+			"y":400,
 			"w":150,
 			"h":18,
 			"textview":true
@@ -112,6 +104,7 @@
 			"touch_y":424,
 			"touch_w":81,
 			"touch_h":56,
+			"dither":0,
 			"imageview":true
 		},
 		"imageview":{
@@ -124,6 +117,7 @@
 			"touch_y":424,
 			"touch_w":81,
 			"touch_h":56,
+			"dither":0,
 			"imageview":true
 		},
 		"imageview":{
@@ -144,6 +138,7 @@
 			"touch_y":424,
 			"touch_w":82,
 			"touch_h":56,
+			"dither":0,
 			"imageview":true
 		},
 		"textview":{
@@ -154,7 +149,7 @@
 			"ini":"music.ini",
 			"text":"unknown_title",
 			"x":6,
-			"y":25,
+			"y":21,
 			"w":320,
 			"h":28,
 			"textview":true
@@ -167,7 +162,7 @@
 			"ini":"music.ini",
 			"text":"unknown_artist",
 			"x":6,
-			"y":53,
+			"y":47,
 			"w":323,
 			"h":24,
 			"textview":true
@@ -178,12 +173,13 @@
 			"img_path_1":"play_plane\\collect_in.png",
 			"img_path_2":"play_plane\\dlna.png",
 			"x":330,
-			"y":25,
+			"y":21,
 			"touch_x":320,
 			"touch_y":20,
-			"touch_w":40,
+			"touch_w":35,
 			"touch_h":33,
 			"visible":"hide",
+			"dither":0,
 			"imageview":true
 		},
 		"textview":{
@@ -194,7 +190,7 @@
 			"ini":"music.ini",
 			"text":"unknown",
 			"x":238,
-			"y":53,
+			"y":47,
 			"w":116,
 			"h":24,
 			"textview":true
@@ -203,11 +199,10 @@
 			"name":"playing_plane_vg_lrc",
 			"color":"0x40000000",
 			"type":"lg_view",
-			"x":0,
-			"y":20,
-			"w":360,
-			"h":360,		
-			"dither":1,
+			"x":30,
+			"y":75,
+			"w":300,
+			"h":300,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -218,8 +213,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"album",
-					"x":20,
-					"y":45,
+					"x":10,
+					"y":5,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -228,9 +223,9 @@
 					"name":"song_info_tv_album_val",
 					"size":14,
 					"color":"0xffffff",
-					"type":"static|h_left",
-					"x":140,
-					"y":45,
+					"type":"roll|h_left",
+					"x":130,
+					"y":5,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -242,8 +237,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"year",
-					"x":20,
-					"y":70,
+					"x":10,
+					"y":30,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -253,8 +248,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":70,
+					"x":130,
+					"y":30,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -266,8 +261,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"genre",
-					"x":20,
-					"y":95,
+					"x":10,
+					"y":55,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -276,9 +271,9 @@
 					"name":"song_info_tv_genre_val",
 					"size":14,
 					"color":"0xffffff",
-					"type":"static|h_left",
-					"x":140,
-					"y":95,
+					"type":"roll|h_left",
+					"x":130,
+					"y":55,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -290,8 +285,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"size",
-					"x":20,
-					"y":120,
+					"x":10,
+					"y":80,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -301,8 +296,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":120,
+					"x":130,
+					"y":80,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -314,8 +309,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"duration",
-					"x":20,
-					"y":145,
+					"x":10,
+					"y":105,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -325,8 +320,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":145,
+					"x":130,
+					"y":105,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -338,8 +333,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"format",
-					"x":20,
-					"y":170,
+					"x":10,
+					"y":130,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -349,8 +344,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":170,
+					"x":130,
+					"y":130,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -362,8 +357,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"sample_rate",
-					"x":20,
-					"y":195,
+					"x":10,
+					"y":155,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -373,8 +368,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":195,
+					"x":130,
+					"y":155,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -386,8 +381,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"bit",
-					"x":20,
-					"y":220,
+					"x":10,
+					"y":280,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -397,8 +392,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":220,
+					"x":130,
+					"y":280,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -410,8 +405,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"bit_rate",
-					"x":20,
-					"y":245,
+					"x":10,
+					"y":205,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -421,8 +416,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":245,
+					"x":130,
+					"y":205,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -434,8 +429,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"channel",
-					"x":20,
-					"y":270,
+					"x":10,
+					"y":230,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -445,8 +440,8 @@
 					"size":14,
 					"color":"0xffffff",
 					"type":"static|h_left",
-					"x":140,
-					"y":270,
+					"x":130,
+					"y":230,
 					"w":200,
 					"h":24,
 					"textview":true
@@ -458,8 +453,8 @@
 					"type":"static|h_right",
 					"ini":"music.ini",
 					"text":"path",
-					"x":20,
-					"y":295,
+					"x":10,
+					"y":255,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -468,12 +463,11 @@
 					"name":"song_info_tv_path_val",
 					"size":14,
 					"color":"0xffffff",
-					"type":"static|top|left",
-					"measure":1,
-					"x":140,
-					"y":298,
+					"type":"roll|h_left",
+					"x":130,
+					"y":255,
 					"w":200,
-					"h":55,
+					"h":24,
 					"textview":true
 				},
 			"name":"song_info_vg_bg",
@@ -481,10 +475,9 @@
 			"visible":"hide",
 			"color":"0x40000000",
 			"x":0,
-			"y":20,
+			"y":72,
 			"w":360,
-			"h":360,
-			"dither":1,
+			"h":305,
 			"viewgroup":true
 		},
 		"progress_bar":{
@@ -495,7 +488,7 @@
 			"img_focus_path_1":"play_plane\\cursor_focus.png",
 			"style":"horizon",
 			"x":0,
-			"y":367,
+			"y":375,
 			"w":360,
 			"h":30,
 			"touch_x":0,
@@ -503,14 +496,6 @@
 			"touch_w":360,
 			"touch_h":44,
 			"progress_bar":true
-		},
-		"imageview":{
-			"name":"playing_plane_iv_topbar_shadow",
-			"img_path":"play_plane\\topbar_shadow.png",
-			"x":0,
-			"y":0,
-			"visible":"hide",
-			"imageview":true
 		},
 		"imageview":{
 			"name":"playing_plane_iv_loading",
@@ -525,6 +510,7 @@
 			"x":163,
 			"y":416,
 			"visible":"hide",
+			"dither":0,
 			"imageview":true
 		},
 		"name":"vg_playing_plane_hiby",
