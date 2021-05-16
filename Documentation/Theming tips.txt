@@ -5,3 +5,20 @@ no_skin_list.txt
 	
 The X offset in the top-bar is hardcoded in the firmware. The skin settings do not apply
 
+
+
+
+
+
+
+
+
+Textview properties:
+
+	[Scrolling text if too long for label, but default left]
+		"type":"roll|left",
+		
+	[Right aligned]
+		"type":"static|h_right",
+		
+		
