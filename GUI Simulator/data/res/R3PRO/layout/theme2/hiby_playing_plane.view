@@ -15,7 +15,7 @@
 			"name":"playing_plane_iv_album_shadow",
 			"img_path":"play_plane\\album_shadow.png",
 			"x":0,
-			"y":280,
+			"y":20,
 			"imageview":true
 		},
 		"imageview":{
@@ -155,7 +155,7 @@
 			"ini":"music.ini",
 			"text":"unknown_title",
 			"x":6,
-			"y":284,
+			"y":24,
 			"w":320,
 			"h":28,
 			"textview":true
@@ -168,7 +168,7 @@
 			"ini":"music.ini",
 			"text":"unknown_artist",
 			"x":6,
-			"y":314,
+			"y":51,
 			"w":323,
 			"h":24,
 			"textview":true
@@ -179,9 +179,9 @@
 			"img_path_1":"play_plane\\collect_in.png",
 			"img_path_2":"play_plane\\dlna.png",
 			"x":330,
-			"y":288,
+			"y":28,
 			"touch_x":320,
-			"touch_y":280,
+			"touch_y":20,
 			"touch_w":40,
 			"touch_h":32,
 			"visible":"hide",
@@ -195,7 +195,7 @@
 			"ini":"music.ini",
 			"text":"unknown",
 			"x":238,
-			"y":314,
+			"y":54,
 			"w":116,
 			"h":24,
 			"textview":true
