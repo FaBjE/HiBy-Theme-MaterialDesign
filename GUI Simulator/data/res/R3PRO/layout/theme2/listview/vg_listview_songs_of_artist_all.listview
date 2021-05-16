@@ -65,7 +65,7 @@
 				"name":"listview_songs_of_artist_all_iv_menu",
 				"img_path":"list\\edit_down.png",
 				"x":332,
-				"y":43,
+				"y":35,
 				"visible":"hide",
 				"imageview":true
 			},

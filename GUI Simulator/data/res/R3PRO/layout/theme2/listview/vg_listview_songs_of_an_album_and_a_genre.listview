@@ -64,9 +64,9 @@
 			"imageview":{
 				"name":"listview_songs_of_an_album_and_a_genre_iv_menu",
 				"img_path":"list\\edit_down.png",
-				"img_focus_path":"list\\edit_down.png",
+				"img_focus_path":"list\\edit_down_s.png",
 				"x":332,
-				"y":43,
+				"y":35,
 				"visible":"hide",
 				"imageview":true
 			},
