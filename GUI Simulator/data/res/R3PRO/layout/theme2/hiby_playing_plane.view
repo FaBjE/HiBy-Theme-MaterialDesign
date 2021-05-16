@@ -154,7 +154,7 @@
 			"ini":"music.ini",
 			"text":"unknown_title",
 			"x":6,
-			"y":24,
+			"y":25,
 			"w":320,
 			"h":28,
 			"textview":true
@@ -167,7 +167,7 @@
 			"ini":"music.ini",
 			"text":"unknown_artist",
 			"x":6,
-			"y":51,
+			"y":53,
 			"w":323,
 			"h":24,
 			"textview":true
@@ -178,11 +178,11 @@
 			"img_path_1":"play_plane\\collect_in.png",
 			"img_path_2":"play_plane\\dlna.png",
 			"x":330,
-			"y":28,
+			"y":25,
 			"touch_x":320,
 			"touch_y":20,
 			"touch_w":40,
-			"touch_h":32,
+			"touch_h":33,
 			"visible":"hide",
 			"imageview":true
 		},
@@ -194,7 +194,7 @@
 			"ini":"music.ini",
 			"text":"unknown",
 			"x":238,
-			"y":54,
+			"y":53,
 			"w":116,
 			"h":24,
 			"textview":true
