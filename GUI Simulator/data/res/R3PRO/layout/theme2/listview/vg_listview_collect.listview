@@ -22,24 +22,24 @@
 				"img_path0":"list\\quality_nomal.png",
 				"img_path1":"list\\quality_high.png",
 				"img_path2":"list\\quality_hr.png",
-				"x":110,
-				"y":68,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},
 			"imageview":{
 				"name":"listview_collect_iv_aac",
 				"img_path":"list\\mqa.png",
-				"x":110,
-				"y":68,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},
 			"imageview":{
 				"name":"listview_collect_iv_dsd",
 				"img_path":"list\\list_dsd.png",
-				"x":110,
-				"y":68,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},
