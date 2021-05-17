@@ -21,7 +21,7 @@
 			"img_path":"play_plane\\default_cover.png",
 			"img_path_1":"play_plane\\default_cover_radio.png",
 			"x":30,
-			"y":75,
+			"y":80,
 			"dither":0,
 			"imageview":true
 		},
@@ -63,7 +63,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":6,
-			"y":400,
+			"y":403,
 			"w":100,
 			"h":18,
 			"textview":true
@@ -76,7 +76,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":254,
-			"y":400,
+			"y":403,
 			"w":100,
 			"h":18,
 			"textview":true
@@ -89,7 +89,7 @@
 			"ini":"music.ini",
 			"text":"",
 			"x":105,
-			"y":400,
+			"y":403,
 			"w":150,
 			"h":18,
 			"textview":true
@@ -150,7 +150,7 @@
 			"ini":"music.ini",
 			"text":"unknown_title",
 			"x":6,
-			"y":21,
+			"y":46,
 			"w":320,
 			"h":28,
 			"textview":true
@@ -163,7 +163,7 @@
 			"ini":"music.ini",
 			"text":"unknown_artist",
 			"x":6,
-			"y":47,
+			"y":23,
 			"w":323,
 			"h":24,
 			"textview":true
@@ -174,9 +174,9 @@
 			"img_path_1":"play_plane\\collect_in.png",
 			"img_path_2":"play_plane\\dlna.png",
 			"x":330,
-			"y":21,
+			"y":46,
 			"touch_x":320,
-			"touch_y":20,
+			"touch_y":40,
 			"touch_w":35,
 			"touch_h":33,
 			"visible":"hide",
@@ -191,7 +191,7 @@
 			"ini":"music.ini",
 			"text":"unknown",
 			"x":238,
-			"y":47,
+			"y":23,
 			"w":116,
 			"h":24,
 			"textview":true
@@ -281,7 +281,7 @@
 			"color":"0x40000000",
 			"type":"lg_view",
 			"x":30,
-			"y":75,
+			"y":80,
 			"w":300,
 			"h":300,
 			"viewgroup":true
@@ -556,9 +556,9 @@
 			"visible":"hide",
 			"color":"0x40000000",
 			"x":0,
-			"y":72,
+			"y":76,
 			"w":360,
-			"h":305,
+			"h":304,
 			"viewgroup":true
 		},
 		"progress_bar":{
@@ -573,11 +573,11 @@
 			"img_repeater_focus_path_right":"play_plane\\repeater_right_flag_fous.png",			
 			"style":"horizon",
 			"x":0,
-			"y":375,
+			"y":378,
 			"w":360,
 			"h":30,
 			"touch_x":0,
-			"touch_y":360,
+			"touch_y":371,
 			"touch_w":360,
 			"touch_h":44,
 			"progress_bar":true
