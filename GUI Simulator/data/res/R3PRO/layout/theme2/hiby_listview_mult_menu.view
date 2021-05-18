@@ -14,7 +14,7 @@
 			"x":0,
 			"y":0,
 			"w":59,
-			"h":36,
+			"h":38,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -30,7 +30,7 @@
 			"x":60,
 			"y":0,
 			"w":100,
-			"h":36,
+			"h":38,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -46,7 +46,7 @@
 			"x":160,
 			"y":0,
 			"w":100,
-			"h":36,
+			"h":38,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -62,7 +62,7 @@
 			"x":260,
 			"y":0,
 			"w":100,
-			"h":36,
+			"h":38,
 			"viewgroup":true
 		},
 	"name":"listview_mult_menu_hiby",
@@ -70,7 +70,7 @@
 	"x":0,
 	"y":0,
 	"w":360,
-	"h":36,
+	"h":38,
 	"hglview_x":0,
 	"hglview_y":64,
 	"hglview_w":360,
