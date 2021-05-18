@@ -592,8 +592,8 @@
 			"img_path5":"play_plane\\loading_5.png",
 			"img_path6":"play_plane\\loading_6.png",
 			"img_path7":"play_plane\\loading_7.png",
-			"x":163,
-			"y":416,
+			"x":171,
+			"y":221,
 			"visible":"hide",
 			"dither":0,
 			"imageview":true
