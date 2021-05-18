@@ -84,6 +84,7 @@ play_plane\topbar_shadow.png
 play_plane\collect_in.png
 play_plane\collect_out.png
 play_plane\menu_cover.png
+play_plane\default_cover_radio.png
 touch_set\label_local_music_s.png
 touch_set\label_settings.png
 touch_set\label_settings_s.png
