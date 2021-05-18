@@ -1,0 +1,2 @@
+1.2,hiby_module_label.view
+1.2,hiby_module_label_c.view

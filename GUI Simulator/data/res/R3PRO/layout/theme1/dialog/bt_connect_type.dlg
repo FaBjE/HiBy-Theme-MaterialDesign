@@ -250,6 +250,38 @@
 		},
 		"viewgroup":{
 			"textview":{
+				"name":"bt_connect_type_tv_aac",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|left",
+				"ini":"bluetooth.ini",
+				"text":"aac",
+				"x":45,
+				"y":0,
+				"w":160,
+				"h":40,
+				"textview":true
+			},
+			"imageview":{
+				"name":"bt_connect_type_iv_aac_select",
+				"img_path":"touch_settings\\ic_radio.png",
+				"img_focus_path":"touch_settings\\ic_radio_s.png",
+				"x":220,
+				"y":14,
+				"imageview":true
+			},
+			"name":"bt_connect_type_vg_aac",
+			"type":"lg_view",
+			"img_path":"touch_settings\\dialog_item_bg.png",
+			"focus_color":"0x33ffffff",
+			"x":0,
+			"y":320,
+			"w":260,
+			"h":40,
+			"viewgroup":true
+		},
+		"viewgroup":{
+			"textview":{
 				"name":"bt_connect_type_tv_sbc",
 				"size":16,
 				"color":"0xececec",
@@ -275,7 +307,7 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":320,
+			"y":360,
 			"w":260,
 			"h":40,
 			"viewgroup":true
@@ -302,7 +334,7 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":150,
-			"y":365,
+			"y":405,
 			"w":110,
 			"h":40,
 			"viewgroup":true
@@ -312,11 +344,11 @@
 		"x":0,
 		"y":0,
 		"w":260,
-		"h":408,
+		"h":448,
 		"hglview_x":50,
-		"hglview_y":36,
+		"hglview_y":26,
 		"hglview_w":260,
-		"hglview_h":408,
+		"hglview_h":448,
 		"flag":"dirty",
 		"color":"0x3a3535",
 		"viewgroup":true,

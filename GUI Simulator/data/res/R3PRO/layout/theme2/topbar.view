@@ -110,6 +110,8 @@
 					"img_path_1":"topbar\\aptx.png",
 					"img_path_2":"topbar\\ldac.png",
 					"img_path_3":"topbar\\bt_uat.png",
+					"img_path_4":"topbar\\aac.png",
+					"img_path_5":"topbar\\bt_uat_tws.png",
 					"x":120,
 					"y":3,
 					"imageview":true

@@ -245,6 +245,37 @@
 		},
 		"viewgroup":{
 			"textview":{
+				"name":"bt_connect_type_tv_aac",
+				"size":16,
+				"color":"0xFFFFFF",
+				"type":"roll|left",
+				"ini":"bluetooth.ini",
+				"text":"aac",
+				"x":45,
+				"y":0,
+				"w":160,
+				"h":40,
+				"textview":true
+			},
+			"imageview":{
+				"name":"bt_connect_type_iv_aac_select",
+				"img_path":"settings\\select.png",
+				"img_focus_path":"settings\\select_s.png",
+				"x":220,
+				"y":5,
+				"imageview":true
+			},
+			"name":"bt_connect_type_vg_aac",
+			"type":"lg_view",
+			"focus_color":"0x33ffffff",
+			"x":0,
+			"y":320,
+			"w":260,
+			"h":40,
+			"viewgroup":true
+		},
+		"viewgroup":{
+			"textview":{
 				"name":"bt_connect_type_tv_sbc",
 				"size":16,
 				"color":"0xececec",
@@ -269,7 +300,7 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":320,
+			"y":360,
 			"w":260,
 			"h":40,
 			"viewgroup":true
@@ -296,7 +327,7 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":365,
+			"y":405,
 			"w":260,
 			"h":40,
 			"viewgroup":true
@@ -306,11 +337,11 @@
 		"x":0,
 		"y":0,
 		"w":260,
-		"h":408,
+		"h":448,
 		"hglview_x":50,
-		"hglview_y":36,
+		"hglview_y":26,
 		"hglview_w":260,
-		"hglview_h":408,
+		"hglview_h":448,
 		"flag":"dirty",
 		"color":"0x5b4d5c",
 		"viewgroup":true,

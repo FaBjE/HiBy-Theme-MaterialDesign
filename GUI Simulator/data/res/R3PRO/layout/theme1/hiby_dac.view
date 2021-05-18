@@ -32,6 +32,17 @@
 				"imageview":true
 			},
 			"textview":{
+				"name":"dac_tv_mqa",
+				"size":20,
+				"color":"0xffffff",
+				"type":"static|h_center",
+				"x":10,
+				"y":360,
+				"w":340,
+				"h":30,
+				"textview":true
+			},
+			"textview":{
 				"name":"dac_tv_info",
 				"size":16,
 				"color":"0xffffff",
