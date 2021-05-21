@@ -138,7 +138,6 @@ menu\replaygain.png
 menu\replaygain_s.png
 menu\vol.png
 menu\vol_bg.png
-menu\vol_progress.png
 menu\wifi.png
 menu\wifi_s.png
 menu\blue.png
