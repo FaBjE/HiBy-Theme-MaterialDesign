@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"sleep_timer_tv_warning",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"ini":"system_ui.ini",
@@ -15,7 +15,7 @@
 		},
 		"textview":{
 			"name":"sleep_timer_tv_time",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"x":130,
@@ -26,7 +26,7 @@
 		},
 		"textview":{
 			"name":"sleep_timer_tv_sure",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"ini":"exception.ini",
@@ -39,7 +39,7 @@
 		},
 		"textview":{
 			"name":"sleep_timer_tv_cancel",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"ini":"exception.ini",

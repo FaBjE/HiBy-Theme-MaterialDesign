@@ -21,7 +21,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"output_select_tv_sure",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",
@@ -44,7 +44,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"output_select_tv_cancel",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

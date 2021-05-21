@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_update_type_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll",
 				"ini":"sys_set.ini",
@@ -25,7 +25,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_update_type_tv_manual",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"sys_set.ini",
@@ -55,7 +55,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_update_type_tv_auto",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"sys_set.ini",
@@ -85,7 +85,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_update_type_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

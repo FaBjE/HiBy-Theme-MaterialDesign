@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"settings_upgrade_type_tv_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"sys_set.ini",
@@ -16,7 +16,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_upgrade_type_tv_local",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"firmware_update.ini",
@@ -39,7 +39,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_upgrade_type_tv_net",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"firmware_update.ini",
@@ -62,7 +62,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_upgrade_type_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"settings_bkl_time_tv_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|left|top",
 			"ini":"sys_set.ini",
@@ -60,7 +60,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_bkl_time_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",
@@ -86,7 +86,7 @@
 		},
 		"textview":{
 			"name":"settings_bkl_time_tv_val",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"img_path":"settings\\value_bg.png",

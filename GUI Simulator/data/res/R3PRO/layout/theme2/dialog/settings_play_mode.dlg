@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left|top",
 				"ini":"play_settings.ini",
@@ -25,7 +25,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_order",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"play_settings.ini",
@@ -55,7 +55,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_single",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"play_settings.ini",
@@ -85,7 +85,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_random",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"play_settings.ini",
@@ -115,7 +115,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_loop",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"play_settings.ini",
@@ -147,7 +147,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_play_mode_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

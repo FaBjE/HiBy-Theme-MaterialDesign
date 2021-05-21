@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"mseb.ini",
@@ -25,7 +25,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_default",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"mseb.ini",
@@ -38,7 +38,7 @@
 			},
 			"textview":{
 				"name":"tune_set_tv_default_select",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_right",
 				"ini":"mseb.ini",
@@ -70,7 +70,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_range_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"mseb.ini",
@@ -92,7 +92,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_small",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"mseb.ini",
@@ -123,7 +123,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_middle",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"mseb.ini",
@@ -154,7 +154,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_big",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"mseb.ini",
@@ -185,7 +185,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_save",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"mseb.ini",
@@ -208,7 +208,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"tune_set_tv_load",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"mseb.ini",

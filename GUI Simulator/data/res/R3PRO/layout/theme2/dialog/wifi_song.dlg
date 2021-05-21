@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"wifi_song_tv_text1",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi_song.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"wifi_song_tv_text2",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi_song.ini",

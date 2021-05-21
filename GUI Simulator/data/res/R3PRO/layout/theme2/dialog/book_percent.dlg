@@ -21,7 +21,7 @@
 		},
 		"textview":{
 			"name":"book_percent_tv_val",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"x":110,

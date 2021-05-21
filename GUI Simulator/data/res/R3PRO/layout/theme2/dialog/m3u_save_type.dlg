@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"m3u_save_type_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"m3u.ini",
@@ -27,7 +27,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"m3u_save_type_tv_public",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"m3u.ini",
@@ -51,7 +51,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"m3u_save_type_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|v_center",
 				"ini":"exception.ini",

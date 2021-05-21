@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"dialog_tv_select_song",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

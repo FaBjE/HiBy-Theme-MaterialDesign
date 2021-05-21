@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -26,7 +26,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_audio",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -57,7 +57,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_connect",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -88,7 +88,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_auto",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -119,7 +119,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_uat_1200",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_left",
 				"ini":"bluetooth.ini",
@@ -151,7 +151,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_uat_900",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_left",
 				"ini":"bluetooth.ini",
@@ -183,7 +183,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_uat_600",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_left",
 				"ini":"bluetooth.ini",
@@ -215,7 +215,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_aptx",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -246,7 +246,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_aac",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -277,7 +277,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_sbc",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_left",
 				"ini":"bluetooth.ini",
@@ -308,7 +308,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

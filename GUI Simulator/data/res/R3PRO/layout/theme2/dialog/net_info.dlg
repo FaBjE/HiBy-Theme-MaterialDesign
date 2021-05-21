@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_host_name",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|right",
 				"ini":"wifi.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"tv_host_name_attr",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"x":135,
@@ -26,7 +26,7 @@
 			},
 		"textview":{
 				"name":"tv_mac",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|right",
 				"ini":"about_dev.ini",
@@ -39,7 +39,7 @@
 			},
 		"textview":{
 				"name":"tv_mac_attr",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"x":135,
@@ -50,7 +50,7 @@
 			},
 		"textview":{
 				"name":"tv_ip",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|right",
 				"ini":"wifi.ini",
@@ -63,7 +63,7 @@
 			},
 		"textview":{
 				"name":"tv_ip_attr",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"x":135,

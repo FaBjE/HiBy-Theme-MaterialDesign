@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"book_remove_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"exception.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"book_remove_tv_warning",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"book.ini",
@@ -28,7 +28,7 @@
 			},
 		"textview":{
 				"name":"book_remove_tv_sure",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"book.ini",
@@ -41,7 +41,7 @@
 			},
 		"textview":{
 				"name":"book_remove_tv_yes",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",
@@ -55,7 +55,7 @@
 			},
 		"textview":{
 				"name":"book_remove_tv_no",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",
