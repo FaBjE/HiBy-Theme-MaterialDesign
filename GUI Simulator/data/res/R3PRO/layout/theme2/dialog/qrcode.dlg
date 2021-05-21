@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"qrcode_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"x":0,

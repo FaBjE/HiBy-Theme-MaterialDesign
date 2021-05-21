@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"airplay_exit_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exit.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"airplay_exit_tv_title_1",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exit.ini",
@@ -28,7 +28,7 @@
 			},
 		"textview":{
 				"name":"airplay_exit_tv_yes",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",
@@ -42,7 +42,7 @@
 			},
 		"textview":{
 				"name":"airplay_exit_tv_no",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

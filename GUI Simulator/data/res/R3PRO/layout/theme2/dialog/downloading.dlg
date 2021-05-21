@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_downloading",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"firmware_update.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"tv_downloading_progress",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"x":0,
@@ -40,7 +40,7 @@
 			},
 		"textview":{
 				"name":"tv_downloading_cancel",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_right",
 				"ini":"exception.ini",

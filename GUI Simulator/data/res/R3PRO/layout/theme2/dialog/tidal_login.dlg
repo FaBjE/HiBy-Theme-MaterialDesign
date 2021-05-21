@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"tidal_logine_tv_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|left",
 			"ini":"wifi.ini",
@@ -15,7 +15,7 @@
 		},
 		"textview":{
 				"name":"tidal_login_tv_user",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"wifi.ini",
@@ -29,7 +29,7 @@
 			},
 		"textview":{
 				"name":"tidal_login_tv_password",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"wifi.ini",
@@ -43,7 +43,7 @@
 			},
 		"textview":{
 				"name":"tidal_login_tv_yes",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi.ini",
@@ -57,7 +57,7 @@
 			},
 		"textview":{
 				"name":"tidal_login_tv_no",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

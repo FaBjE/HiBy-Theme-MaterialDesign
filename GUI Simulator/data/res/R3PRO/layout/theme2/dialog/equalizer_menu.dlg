@@ -10,7 +10,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_custom",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -31,7 +31,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_pop",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -52,7 +52,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_blues",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -73,7 +73,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_classic",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -94,7 +94,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_jazz",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -115,7 +115,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_rock",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -136,7 +136,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_dance",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -157,7 +157,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_metal",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",
@@ -178,7 +178,7 @@
 		},
 		"textview":{
 			"name":"eq_menu_tv_voice",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll",
 			"ini":"eq.ini",

@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tune_reset_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"mseb.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"tune_reset_tv_yes",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",
@@ -29,7 +29,7 @@
 			},
 		"textview":{
 				"name":"tune_reset_tv_no",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

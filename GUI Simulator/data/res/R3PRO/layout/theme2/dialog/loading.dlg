@@ -16,7 +16,7 @@
 		},
 		"textview":{
 				"name":"dialog_tv_dealing",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

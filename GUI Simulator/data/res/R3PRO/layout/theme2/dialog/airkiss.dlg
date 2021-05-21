@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"airkiss_tv_dialog_0",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"airkiss_tv_dialog_1",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi.ini",
@@ -28,7 +28,7 @@
 			},
 		"textview":{
 				"name":"airkiss_tv_dialog_2",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi.ini",

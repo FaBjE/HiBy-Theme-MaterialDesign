@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_vol_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -26,7 +26,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_vol_tv_add",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -49,7 +49,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_vol_tv_reduce",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"bluetooth.ini",
@@ -72,7 +72,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"bt_vol_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

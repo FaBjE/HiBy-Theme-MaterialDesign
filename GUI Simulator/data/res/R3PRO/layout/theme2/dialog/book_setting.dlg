@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"book_setting_tv_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|left|top",
 			"ini":"mseb.ini",
@@ -15,7 +15,7 @@
 		},
 		"textview":{
 			"name":"book_setting_tv_0",
-			"size":16,
+			"size":18,
 			"type":"center",
 			"x":12,
 			"y":60,
@@ -25,7 +25,7 @@
 		},
 		"textview":{
 			"name":"book_setting_tv_1",
-			"size":16,
+			"size":18,
 			"type":"center",
 			"x":87,
 			"y":60,
@@ -35,7 +35,7 @@
 		},
 		"textview":{
 			"name":"book_setting_tv_2",
-			"size":16,
+			"size":18,
 			"type":"center",
 			"x":162,
 			"y":60,
@@ -45,7 +45,7 @@
 		},
 		"textview":{
 			"name":"book_setting_tv_3",
-			"size":16,
+			"size":18,
 			"type":"center",
 			"x":237,
 			"y":60,
@@ -55,7 +55,7 @@
 		},
 		"textview":{
 			"name":"book_setting_tv_fontzise_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|left",
 			"ini":"sys_set.ini",
@@ -141,7 +141,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"book_setting_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",
@@ -163,7 +163,7 @@
 		},
 		"textview":{
 				"name":"book_setting_tv_key",
-				"size":16,
+				"size":18,
 				"color":"0xffffff",
 				"focus_color":"0xffff00",
 				"type":"left",

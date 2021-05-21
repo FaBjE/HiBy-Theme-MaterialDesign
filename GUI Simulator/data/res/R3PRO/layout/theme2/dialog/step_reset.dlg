@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"step_reset_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|center",
 				"ini":"step.ini",
@@ -16,7 +16,7 @@
 			},
 		"textview":{
 				"name":"step_reset_tv_yes",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|center",
 				"ini":"exception.ini",
@@ -30,7 +30,7 @@
 			},
 		"textview":{
 				"name":"step_reset_tv_no",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|center",
 				"ini":"exception.ini",
