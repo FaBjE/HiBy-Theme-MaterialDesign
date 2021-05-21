@@ -4,12 +4,12 @@
 			"name":"set_sub_back_iv_back",
 			"img_path":"sub_back\\btn_back.png",
 			"img_focus_path":"sub_back\\btn_back_s.png",
-			"x":22,
-			"y":35,
+			"x":8,
+			"y":32,
 			"touch_x":0,
-			"touch_y":10,
-			"touch_w":80,
-			"touch_h":70,
+			"touch_y":24,
+			"touch_w":40,
+			"touch_h":40,
 			"imageview":true
 		},
 		"imageview":{
@@ -26,15 +26,15 @@
 		},
 		"textview":{
 			"name":"set_sub_back_tv_title",
-			"size":16,
+			"size":24,
 			"color":"0xffffff",
 			"type":"static|left|top",
 			"ini":"",
 			"text":"",
-			"x":52,
-			"y":38,
-			"w":160,
-			"h":24,
+			"x":37,
+			"y":30,
+			"w":320,
+			"h":26,
 			"textview":true
 		},
 		"textview":{
