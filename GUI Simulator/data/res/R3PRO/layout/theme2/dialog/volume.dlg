@@ -6,16 +6,16 @@
 			"img_focus_path_0":"volume\\vol_progress.png",
 			"style":"vertical",
 			"x":140,
-			"y":140,
+			"y":90,
 			"w":80,
-			"h":200,
+			"h":300,
 			"progress_bar":true
 		},
 		"imageview":{
 			"name":"volume_iv_vol",
 			"img_path":"volume\\vol.png",
 			"x":168,
-			"y":282,
+			"y":352,
 			"imageview":true
 		},
 		"textview":{
@@ -25,7 +25,7 @@
 			"type":"roll|h_center",
 			"ini":"exception.ini",
 			"x":0,
-			"y":100,
+			"y":50,
 			"w":360,
 			"h":30,
 			"textview":true
