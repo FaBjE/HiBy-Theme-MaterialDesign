@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_custom_cover_help",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_center",
 				"ini":"sys_set.ini",

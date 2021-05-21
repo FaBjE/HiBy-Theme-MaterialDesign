@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"warn3",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi_song.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"warn4",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi_song.ini",

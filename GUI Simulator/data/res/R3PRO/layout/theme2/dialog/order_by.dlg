@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"order_by_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"order_by.ini",
@@ -25,7 +25,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"order_by_name_tv",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_left",
 				"ini":"order_by.ini",
@@ -55,7 +55,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"order_by_ctime_asc_tv",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"order_by.ini",
@@ -85,7 +85,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"order_by_ctime_desc_tv",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"order_by.ini",
@@ -115,7 +115,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"order_by_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_warning",
-				"size":16,
+				"size":18,
 				"color":"0xececec",
 				"type":"roll|h_center",
 				"ini":"step.ini",

@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_power_exhaust",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"system_ui.ini",
@@ -15,7 +15,7 @@
 			},
 		"textview":{
 				"name":"tv_shutdowning",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"system_ui.ini",

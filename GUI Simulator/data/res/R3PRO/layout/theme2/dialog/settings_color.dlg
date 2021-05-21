@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 			"name":"settings_color_tv_title",
-			"size":16,
+			"size":18,
 			"color":"0xFFFFFF",
 			"type":"roll|left",
 			"ini":"sys_set.ini",
@@ -128,7 +128,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"settings_color_tv_back",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|center",
 				"ini":"exception.ini",

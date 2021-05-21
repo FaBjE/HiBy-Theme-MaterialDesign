@@ -3,7 +3,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"online_module_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll",
 				"ini":"tidal_home.ini",
@@ -62,7 +62,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"online_module_tv_tidal",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"tidal.ini",
@@ -99,7 +99,7 @@
 		"viewgroup":{
 			"textview":{
 				"name":"online_module_tv_qobuz",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"tidal.ini",

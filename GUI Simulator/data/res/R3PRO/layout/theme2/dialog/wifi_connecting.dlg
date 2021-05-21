@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_wifi_connecting",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"wifi.ini",

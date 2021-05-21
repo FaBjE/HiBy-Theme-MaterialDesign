@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"tv_song_name",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"x":0,
@@ -13,7 +13,7 @@
 			},
 		"textview":{
 				"name":"tv_song_nosupport",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"exception.ini",

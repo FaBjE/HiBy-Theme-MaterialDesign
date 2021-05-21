@@ -2,7 +2,7 @@
 	"viewgroup":{
 		"textview":{
 				"name":"repeat_name_op_tv_title",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"static|h_center",
 				"ini":"m3u.ini",
@@ -16,7 +16,7 @@
 			},
 		"textview":{
 				"name":"repeat_name_op_tv_ask_more",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|left",
 				"ini":"m3u.ini",
@@ -42,7 +42,7 @@
 		},
 		"textview":{
 				"name":"repeat_name_op_tv_ignore",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"m3u.ini",
@@ -56,7 +56,7 @@
 			},
 		"textview":{
 				"name":"repeat_name_op_tv_cover",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"m3u.ini",
@@ -70,7 +70,7 @@
 			},
 		"textview":{
 				"name":"repeat_name_op_tv_reserve",
-				"size":16,
+				"size":18,
 				"color":"0xFFFFFF",
 				"type":"roll|h_center",
 				"ini":"m3u.ini",
