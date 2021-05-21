@@ -5,12 +5,12 @@
 				"name":"step_iv_back",
 				"img_path":"sub_back\\btn_back.png",
 				"img_focus_path":"sub_back\\btn_back_s.png",
-				"x":20,
-				"y":40,
+				"x":8,
+				"y":32,
 				"touch_x":0,
-				"touch_y":20,
-				"touch_w":60,
-				"touch_h":60,
+				"touch_y":24,
+				"touch_w":40,
+				"touch_h":40,
 				"imageview":true
 			},
 			"imageview":{
@@ -44,15 +44,15 @@
 			},
 			"textview":{
 				"name":"step_tv_title",
-				"size":20,
+				"size":24,
 				"color":"0xececec",
 				"type":"static|left",
 				"ini":"settings.ini",
 				"text":"step",
-				"x":60,
-				"y":35,
-				"w":240,
-				"h":30,
+				"x":37,
+				"y":30,
+				"w":263,
+				"h":26,
 				"textview":true
 			},
 			"imageview":{
