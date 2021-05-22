@@ -42,7 +42,7 @@
 				"img_path":"eq\\title\\reset.png",
 				"img_focus_path":"eq\\title\\reset_s.png",
 				"x":258,
-				"y":32,
+				"y":30,
 				"touch_x":248,
 				"touch_y":20,
 				"touch_w":44,
