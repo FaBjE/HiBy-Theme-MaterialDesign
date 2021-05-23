@@ -30,16 +30,16 @@
 			"imageview":{
 				"name":"listview_search_item_iv_aac",
 				"img_path":"list\\mqa.png",
-				"x":110,
-				"y":68,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},
 			"imageview":{
 				"name":"listview_search_item_iv_dsd",
 				"img_path":"list\\list_dsd.png",
-				"x":110,
-				"y":68,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},

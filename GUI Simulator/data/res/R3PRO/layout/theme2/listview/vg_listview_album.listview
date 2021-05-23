@@ -45,8 +45,8 @@
 			"imageview":{
 				"name":"listview_album_iv_aac",
 				"img_path":"list\\mqa.png",
-				"x":108,
-				"y":64,
+				"x":50,
+				"y":69,
 				"visible":"hide",
 				"imageview":true
 			},
