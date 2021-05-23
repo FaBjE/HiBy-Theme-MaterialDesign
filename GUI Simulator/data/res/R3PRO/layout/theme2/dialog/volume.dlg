@@ -20,14 +20,14 @@
 		},
 		"textview":{
 			"name":"volume_tv_vol",
-			"size":24,
+			"size":34,
 			"color":"0xFFFFFF",
 			"type":"roll|h_center",
 			"ini":"exception.ini",
 			"x":0,
 			"y":50,
 			"w":360,
-			"h":30,
+			"h":36,
 			"textview":true
 		},
 		"name":"vg_dialog_volume",
