@@ -21,7 +21,7 @@
 			"img_path":"play_plane\\default_cover.png",
 			"img_path_1":"play_plane\\default_cover_radio.png",
 			"x":30,
-			"y":80,
+			"y":82,
 			"dither":0,
 			"imageview":true
 		},
@@ -200,7 +200,7 @@
 			"color":"0x40000000",
 			"type":"lg_view",
 			"x":30,
-			"y":80,
+			"y":82,
 			"w":300,
 			"h":300,
 			"viewgroup":true
@@ -286,7 +286,7 @@
 					"ini":"music.ini",
 					"text":"size",
 					"x":10,
-					"y":80,
+					"y":82,
 					"w":100,
 					"h":24,
 					"textview":true
@@ -297,7 +297,7 @@
 					"color":"0xffffff",
 					"type":"static|h_left",
 					"x":130,
-					"y":80,
+					"y":82,
 					"w":200,
 					"h":24,
 					"textview":true
