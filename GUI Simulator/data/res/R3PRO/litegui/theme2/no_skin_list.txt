@@ -74,6 +74,8 @@ play_plane\topbar_shadow.png
 play_plane\collect_in.png
 play_plane\collect_out.png
 play_plane\menu_cover.png
+play_plane\cursor.png
+play_plane\cursor_focus.png
 update\bg.png
 module_label\label_local_music.png
 module_label\label_local_music_s.png
