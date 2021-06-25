@@ -5,7 +5,7 @@
 				"name":"listview_smb_iv_cover",
 				"img_path_0":"list\\search.png",
 				"img_path_1":"list\\list_wlan.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -43,8 +43,8 @@
 			"imageview":{
 				"name":"listview_smb_iv_line",
 				"img_path":"list\\list_line.png",
-				"x":102,
-				"y":93,
+				"x":20,
+				"y":94,
 				"visible":"hide",
 				"imageview":true
 			},

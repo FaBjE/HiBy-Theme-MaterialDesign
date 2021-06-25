@@ -4,7 +4,7 @@
 			"imageview":{
 				"name":"listview_tidal_item_iv_cover",
 				"img_path":"list\\list_default_cover.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -12,7 +12,7 @@
 			"imageview":{
 				"name":"listview_tidal_item_iv_shade_cover",
 				"img_path":"list\\list_cover_shade.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -22,7 +22,7 @@
 				"img_path0":"list\\quality_nomal.png",
 				"img_path1":"list\\quality_high.png",
 				"img_path2":"list\\quality_hr.png",
-				"x":50,
+				"x":44,
 				"y":69,
 				"visible":"hide",
 				"imageview":true
@@ -30,7 +30,7 @@
 			"imageview":{
 				"name":"listview_tidal_item_iv_aac",
 				"img_path":"list\\mqa.png",
-				"x":50,
+				"x":44,
 				"y":69,
 				"visible":"hide",
 				"imageview":true
@@ -39,7 +39,7 @@
 				"name":"listview_tidal_item_iv_playing",
 				"img_path":"list\\playing.png",
 				"img_path_1":"list\\pause.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -56,7 +56,7 @@
 				"name":"listview_tidal_item_iv_enter",
 				"img_path":"list\\list_enter.png",
 				"x":332,
-				"y":43,
+				"y":41,
 				"visible":"hide",
 				"imageview":true
 			},
@@ -108,8 +108,8 @@
 			"imageview":{
 				"name":"listview_tidal_item_iv_line",
 				"img_path":"list\\list_line.png",
-				"x":110,
-				"y":93,
+				"x":20,
+				"y":94,
 				"visible":"hide",
 				"imageview":true
 			},

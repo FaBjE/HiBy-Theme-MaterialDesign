@@ -4,7 +4,7 @@
 			"imageview":{
 				"name":"listview_tidal_explorer_iv_cover",
 				"img_path":"list\\list_default_cover.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -13,7 +13,7 @@
 				"name":"listview_tidal_explorer_iv_playing",
 				"img_path":"list\\playing.png",
 				"img_path_1":"list\\pause.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
