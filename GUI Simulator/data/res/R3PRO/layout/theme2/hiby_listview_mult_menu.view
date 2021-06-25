@@ -6,7 +6,7 @@
 				"img_path":"list\\mult_select.png",
 				"img_focus_path":"list\\mult_select_s.png",
 				"x":10,
-				"y":7,
+				"y":6,
 				"imageview":true
 			},
 			"name":"listview_mult_menu_vg_select_all",
@@ -14,7 +14,7 @@
 			"x":0,
 			"y":0,
 			"w":59,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -22,15 +22,15 @@
 				"name":"listview_mult_menu_iv_list",
 				"img_path":"list\\menu_add_list.png",
 				"x":38,
-				"y":8,
+				"y":6,
 				"imageview":true
 			},
 			"name":"listview_mult_menu_vg_list",
 			"type":"lg_view",
-			"x":60,
+			"x":65,
 			"y":0,
 			"w":100,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -38,15 +38,15 @@
 			"name":"listview_mult_menu_iv_del",
 			"img_path":"list\\menu_song_delete.png",
 			"x":38,
-			"y":8,
+			"y":6,
 			"imageview":true
 			},
 			"name":"listview_mult_menu_vg_del",
 			"type":"lg_view",
-			"x":160,
+			"x":185,
 			"y":0,
 			"w":100,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -54,15 +54,15 @@
 			"name":"listview_mult_menu_iv_cancel",
 			"img_path":"list\\menu_song_cancel.png",
 			"x":38,
-			"y":8,
+			"y":6,
 			"imageview":true
 			},
 			"name":"listview_mult_menu_vg_cancel",
 			"type":"lg_view",
-			"x":260,
+			"x":290,
 			"y":0,
-			"w":100,
-			"h":38,
+			"w":70,
+			"h":36,
 			"viewgroup":true
 		},
 	"name":"listview_mult_menu_hiby",
@@ -70,7 +70,7 @@
 	"x":0,
 	"y":0,
 	"w":360,
-	"h":38,
+	"h":36,
 	"hglview_x":0,
 	"hglview_y":64,
 	"hglview_w":360,
