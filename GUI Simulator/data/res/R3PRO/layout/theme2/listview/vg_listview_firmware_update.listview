@@ -28,7 +28,7 @@
 			"imageview":{
 			"name":"listview_firmware_update_iv_line",
 			"img_path":"list\\list_line.png",
-			"x":80,
+			"x":20,
 			"y":74,
 			"imageview":true
 			},
