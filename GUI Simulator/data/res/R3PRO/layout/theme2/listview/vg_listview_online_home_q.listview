@@ -7,7 +7,7 @@
 				"img_path1":"list\\tidal_collect.png",
 				"img_path2":"list\\tidal_search.png",
 				"img_path3":"list\\tidal_exit_b.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -29,15 +29,15 @@
 				"name":"listview_online_home_q_iv_menu",
 				"img_path":"list\\list_enter.png",
 				"x":332,
-				"y":43,
+				"y":41,
 				"visible":"hide",
 				"imageview":true
 			},
 			"imageview":{
 				"name":"listview_online_home_q_iv_line",
 				"img_path":"list\\list_line.png",
-			    "x":110,
-			    "y":93,
+			    "x":20,
+			    "y":94,
 				"visible":"hide",
 				"imageview":true
 			},

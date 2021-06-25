@@ -4,7 +4,7 @@
 			"imageview":{
 				"name":"listview_radio_item_iv_cover",
 				"img_path":"list\\radio_cover.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -13,7 +13,7 @@
 				"name":"listview_radio_item_iv_playing",
 				"img_path":"list\\playing.png",
 				"img_path_1":"list\\pause.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -60,8 +60,8 @@
 			"imageview":{
 				"name":"listview_radio_item_iv_line",
 				"img_path":"list\\list_line.png",
-				"x":110,
-				"y":93,
+				"x":20,
+				"y":94,
 				"visible":"hide",
 				"imageview":true
 			},

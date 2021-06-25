@@ -29,8 +29,8 @@
 			"imageview":{
 				"name":"listview_main_explorer_iv_line",
 				"img_path":"list\\list_line.png",
-				"x":110,
-				"y":93,
+				"x":20,
+				"y":94,
 				"imageview":true
 			},
 			"name":"vg_listview_item_main_explorer",

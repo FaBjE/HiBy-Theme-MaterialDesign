@@ -6,7 +6,7 @@
 				"img_path_0":"list\\add_m3u.png",
 				"img_path_1":"list\\add_collect.png",
 				"img_path_2":"list\\list_m3u.png",
-				"x":20,
+				"x":14,
 				"y":12,
 				"visible":"hide",
 				"imageview":true
@@ -44,8 +44,8 @@
 			"imageview":{
 				"name":"listview_add_m3u_iv_line",
 				"img_path":"list\\list_line.png",
-				"x":102,
-				"y":93,
+				"x":20,
+				"y":94,
 				"visible":"hide",
 				"imageview":true
 			},
