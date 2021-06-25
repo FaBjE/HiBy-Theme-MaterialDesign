@@ -5,7 +5,7 @@
 				"name":"listview_mult_menu_iv_select_all",
 				"img_path":"list\\mult_select.png",
 				"img_focus_path":"list\\mult_select_s.png",
-				"x":10,
+				"x":8,
 				"y":6,
 				"imageview":true
 			},
