@@ -25,7 +25,7 @@
 				"name":"listview_tidal_collect_iv_menu",
 				"img_path":"list\\list_enter.png",
 				"x":325,
-				"y":43,
+				"y":41,
 				"visible":"hide",
 				"imageview":true
 			},
