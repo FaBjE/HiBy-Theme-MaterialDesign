@@ -104,7 +104,6 @@
 				"img_path":"list\\list_line.png",
 				"x":20,
 				"y":94,
-				"visible":"hide",
 				"imageview":true
 			},
 			"name":"vg_listview_item_all",
