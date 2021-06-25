@@ -12,7 +12,7 @@
 				"x":0,
 				"y":0,
 				"w":90,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"radio_label_vg_center",
@@ -20,7 +20,7 @@
 			"x":0,
 			"y":0,
 			"w":90,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -35,7 +35,7 @@
 				"x":0,
 				"y":0,
 				"w":89,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"radio_label_vg_province",
@@ -43,7 +43,7 @@
 			"x":91,
 			"y":0,
 			"w":89,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -58,7 +58,7 @@
 				"x":0,
 				"y":0,
 				"w":89,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"radio_label_vg_collect",
@@ -66,7 +66,7 @@
 			"x":181,
 			"y":0,
 			"w":89,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -81,7 +81,7 @@
 				"x":0,
 				"y":0,
 				"w":89,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"radio_label_vg_self",
@@ -89,7 +89,7 @@
 			"x":271,
 			"y":0,
 			"w":89,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"name":"vg_radio_label_hiby",
@@ -97,7 +97,7 @@
 		"x":0,
 		"y":0,
 		"w":360,
-		"h":38,
+		"h":36,
 		"hglview_x":0,
 		"hglview_y":64,
 		"hglview_w":360,

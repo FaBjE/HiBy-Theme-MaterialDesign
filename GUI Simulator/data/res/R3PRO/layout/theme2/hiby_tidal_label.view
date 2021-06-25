@@ -12,7 +12,7 @@
 				"x":0,
 				"y":0,
 				"w":119,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"tidal_label_vg_home",
@@ -20,7 +20,7 @@
 			"x":0,
 			"y":0,
 			"w":119,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -35,7 +35,7 @@
 				"x":0,
 				"y":0,
 				"w":119,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"tidal_label_vg_collect",
@@ -43,7 +43,7 @@
 			"x":120,
 			"y":0,
 			"w":119,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -58,7 +58,7 @@
 				"x":0,
 				"y":0,
 				"w":119,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"tidal_label_vg_search",
@@ -66,7 +66,7 @@
 			"x":240,
 			"y":0,
 			"w":119,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"name":"vg_tidal_label_hiby",
@@ -74,7 +74,7 @@
 		"x":0,
 		"y":0,
 		"w":360,
-		"h":38,
+		"h":36,
 		"hglview_x":0,
 		"hglview_y":64,
 		"hglview_w":360,
