@@ -4,7 +4,7 @@
 			"name":"category_label_separator",
 			"img_path":"module_label\\category_explorer.png",
 			"x":4,
-			"y":9,
+			"y":8,
 			"imageview":true
 		},
 		"viewgroup":{
@@ -19,7 +19,7 @@
 				"x":24,
 				"y":0,
 				"w":46,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"category_label_vg_explorer",
@@ -28,7 +28,7 @@
 			"x":0,
 			"y":0,
 			"w":70,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"imageview":{
@@ -50,7 +50,7 @@
 				"x":0,
 				"y":0,
 				"w":70,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"category_label_vg_all",
@@ -58,7 +58,7 @@
 			"x":73,
 			"y":0,
 			"w":70,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -73,7 +73,7 @@
 				"x":0,
 				"y":0,
 				"w":70,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"category_label_vg_artist",
@@ -81,7 +81,7 @@
 			"x":143,
 			"y":0,
 			"w":70,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -96,7 +96,7 @@
 				"x":0,
 				"y":0,
 				"w":70,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"category_label_vg_album",
@@ -104,7 +104,7 @@
 			"x":213,
 			"y":0,
 			"w":70,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -119,7 +119,7 @@
 				"x":0,
 				"y":0,
 				"w":70,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"category_label_vg_genre",
@@ -127,7 +127,7 @@
 			"x":283,
 			"y":0,
 			"w":70,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"name":"vg_category_label_hiby",
@@ -135,15 +135,15 @@
 		"x":0,
 		"y":0,
 		"w":400,
-		"h":38,
+		"h":36,
 		"hglview_x":0,
 		"hglview_y":64,
-		"hglview_w":380,
-		"hglview_h":38,
+		"hglview_w":360,
+		"hglview_h":36,
 		"content_x":0,
 		"content_y":0,
 		"content_w":400,
-		"content_h":38,
+		"content_h":36,
 		"scroll_max_x":280,
 		"scroll_min_x":0,
 		"flag":"h_scroll",
