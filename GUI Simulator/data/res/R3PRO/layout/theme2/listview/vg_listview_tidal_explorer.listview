@@ -51,7 +51,7 @@
 			},
 			"name":"vg_listview_item_tidal_explorer",
 			"type":"lg_view",
-			"part":8,
+			"part":4,
 			"x":0,
 			"y":0,
 			"w":360,
