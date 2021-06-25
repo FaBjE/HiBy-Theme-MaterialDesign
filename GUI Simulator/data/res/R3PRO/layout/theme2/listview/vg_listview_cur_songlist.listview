@@ -66,7 +66,7 @@
 			},
 			"name":"vg_listview_item_cur_songlist",
 			"type":"lg_view",
-			"part":8,
+			"part":4,
 			"x":0,
 			"y":0,
 			"w":360,
