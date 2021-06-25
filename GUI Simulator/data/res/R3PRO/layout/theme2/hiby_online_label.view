@@ -12,7 +12,7 @@
 				"x":0,
 				"y":0,
 				"w":180,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"online_label_vg_tidal",
@@ -20,7 +20,7 @@
 			"x":0,
 			"y":0,
 			"w":180,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -35,7 +35,7 @@
 				"x":0,
 				"y":0,
 				"w":180,
-				"h":38,
+				"h":36,
 				"textview":true
 			},
 			"name":"online_label_vg_qobuz",
@@ -43,7 +43,7 @@
 			"x":180,
 			"y":0,
 			"w":180,
-			"h":38,
+			"h":36,
 			"viewgroup":true
 		},
 		"name":"vg_online_label_hiby",
@@ -51,7 +51,7 @@
 		"x":0,
 		"y":0,
 		"w":360,
-		"h":38,
+		"h":36,
 		"hglview_x":0,
 		"hglview_y":64,
 		"hglview_w":360,
