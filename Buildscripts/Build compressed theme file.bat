@@ -30,7 +30,7 @@ xcopy %base_dir%\data\res\R3PRO\litegui\theme2 theme /E /Y >nul 2>nul
 
 
 echo Generating compressed file...
-7z a -tzip -mx0 %ver%.t font layout theme version.txt  >nul 2>nul
+7z a -tzip -mx0 ..\Builds\R3PRO\%ver%.t font layout theme ..\Builds\R3PRO\version.txt  >nul 2>nul
 
 
 echo Removing temp directories...
