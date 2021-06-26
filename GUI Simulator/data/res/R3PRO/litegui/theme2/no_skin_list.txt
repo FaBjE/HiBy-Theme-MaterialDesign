@@ -99,3 +99,8 @@ module_label\playing2.png
 module_label\playing3.png
 module_label\category_label_separator.png
 module_label\category_explorer.png
+about\bg.png
+about\microblog.png
+about\microblog_s.png
+about\post_bar.png
+about\post_bar_s.png
