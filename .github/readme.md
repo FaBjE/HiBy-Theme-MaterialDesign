@@ -2,8 +2,8 @@
 
 This is a Material Design based theme for the HiBy R3 (Pro/Saber) player.
 Its goal is to improve the user interface with a more modern look and feel and enhance usability.
-The theme was based on the default "theme2" and completly polished/overhauled.
-
+The theme was based on the default "theme2" and completely polished/overhauled.
+[Go to screenshots](#Screenshots)
 
 ## Improvements
 A lot of (tiny) improvements were made. But the big ones are listed here
@@ -11,18 +11,14 @@ A lot of (tiny) improvements were made. But the big ones are listed here
 * Add Radio module icon
 * Improved keyboard layout/coloring
 * Fixed display of album art + new player design
-* Scrolling text when text too long (in player, firmware doesn't support it in lists)
+* Scrolling text when text too long (The players firmware doesn't support this in lists unfortunately)
 * More generic icons / Android material design style layout
 * Improved touch interface (larger buttons/fonts)
 * Made all top-bar icons and labels "Pixelized" instead of weird combination of all sorts of fonts/styles
-* Add extensive phone/line out indicator to topbar
+* Add extensive phone/line/bluetooth protocol out indicator to top-bar
 * Removed volume slider from shortcut menu to prevent accidental volume changes [Use buttons on the side ;)]
 * Optimized for English language
 * Fixed a lot of tiny things (alignment, touch activation areas etc)
-
-
-## Screenshots
-ToDo!
 
 
 ## Download & Install
@@ -42,3 +38,8 @@ ToDo!
 
 Note: After connecting as USB storage the player sometimes "forgets" it needs to use the custom theme and displays some kind of hybrid form of the default theme and the custom theme.
 Following the Activation steps will fix this.
+
+
+## Screenshots
+ToDo!
+
