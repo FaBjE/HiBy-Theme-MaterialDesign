@@ -36,7 +36,7 @@
 			},
 			"name":"vg_listview_item_menu",
 			"type":"lg_view",
-			"part":4,
+			"part":8,
 			"x":0,
 			"y":0,
 			"w":360,
