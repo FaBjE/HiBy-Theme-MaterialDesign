@@ -23,3 +23,22 @@ A lot of (tiny) improvements were made. But the big ones are listed here
 
 ## Screenshots
 ToDo!
+
+
+## Download & Install
+**Downloading**
+* Download MaterialDesign.t file
+* Make a "theme" folder in the root of your SD card (If not existing yet)
+* Place MaterialDesign.t file in "theme" folder.
+
+**Activating**
+* Startup player
+* Swipe-right to open side menu on the left
+* Select "System Settings"
+* Select "UI Themes"
+* Tap "Use custom themes >" on the top of the dialog appearing
+* Select "MaterialDesign"
+* The player will now load the theme, this will take a few seconds
+
+Note: After connecting as USB storage the player sometimes "forgets" it needs to use the custom theme and displays some kind of hybrid form of the default theme and the custom theme.
+Following the Activation steps will fix this.
