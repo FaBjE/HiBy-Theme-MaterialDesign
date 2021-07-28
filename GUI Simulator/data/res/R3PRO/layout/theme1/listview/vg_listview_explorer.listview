@@ -42,7 +42,7 @@
 				"name":"listview_explorer_iv_aac",
 				"img_path":"touch_list\\mqa.png",
 				"x":76,
-				"y":27,
+				"y":40,
 				"visible":"hide",
 				"imageview":true
 			},

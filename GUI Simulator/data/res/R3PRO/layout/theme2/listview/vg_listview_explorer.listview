@@ -50,7 +50,7 @@
 				"name":"listview_explorer_iv_aac",
 				"img_path":"list\\mqa.png",
 				"x":106,
-				"y":40,
+				"y":60,
 				"visible":"hide",
 				"imageview":true
 			},

@@ -65,7 +65,6 @@
 		"scroll_max_x":220,
 		"flag":"v_scroll",
 		"color":"0x000001",
-		
 		"viewgroup":true,
 		"add_layout":true
 	}

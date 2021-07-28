@@ -59,7 +59,7 @@
 		"hglview_y":160,
 		"hglview_w":360,
 		"hglview_h":320,
-		"zorder":40,
+		"zorder":-1,
 		"content_x":0,
 		"content_y":0,
 		"content_w":360,

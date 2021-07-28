@@ -314,7 +314,7 @@
 		"content_w":250,
 		"content_h":360,
 		"scroll_max_x":0,
-		"scroll_min_x":-20,
+		"scroll_min_x":-0,
 		"scroll_max_y":50,
 		"scroll_min_y":-100,
 		"flag":"v_scroll",
