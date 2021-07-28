@@ -197,12 +197,12 @@
 		},
 		"viewgroup":{
 			"name":"playing_plane_vg_lrc",
-			"color":"0x40000000",
+			"color":"0x7F000000",
 			"type":"lg_view",
-			"x":30,
-			"y":82,
-			"w":300,
-			"h":300,
+			"x":0,
+			"y":76,
+			"w":360,
+			"h":315,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -473,11 +473,11 @@
 			"name":"song_info_vg_bg",
 			"type":"lg_view",
 			"visible":"hide",
-			"color":"0x40000000",
+			"color":"0x7F000000",
 			"x":0,
 			"y":76,
 			"w":360,
-			"h":304,
+			"h":315,
 			"viewgroup":true
 		},
 		"progress_bar":{
