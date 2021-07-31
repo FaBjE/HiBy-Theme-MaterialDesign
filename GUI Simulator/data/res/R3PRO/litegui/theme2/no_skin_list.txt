@@ -67,6 +67,8 @@ play_plane\default_cover.png
 play_plane\default_cover_radio.png
 play_plane\ic_more.png
 play_plane\menu_cover.png
+play_plane\repeater_left_flag.png
+play_plane\repeater_right_flag.png
 play_plane\topbar_shadow.png
 settings\album.png
 settings\dlg_off.png
