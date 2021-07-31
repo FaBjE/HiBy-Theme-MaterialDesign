@@ -124,8 +124,8 @@
 			"name":"playing_plane_iv_aac",
 			"img_path":"play_plane\\mqa.png",
 			"img_focus_path":"play_plane\\mqa_studio.png",			
-			"x":288,
-			"y":356,
+			"x":238,
+			"y":23,
 			"visible":"hide",
 			"imageview":true
 		},
