@@ -24,6 +24,13 @@ A lot of (tiny) improvements were made. But the big ones are listed here
 * Fixed a lot of tiny things (alignment, touch activation areas etc)
 
 
+## Changelog
+* Last update: 1-8-2021
+* Add support for playspeed and section repeat functions
+* Upgraded to base firmware 1.6, legacy 1.5 based version available in GIT history.
+* Fixed lyrics display
+
+
 ## Download & Install
 **Downloading**
 * Download [MaterialDesign.t](../Builds/R3PRO/MaterialDesign.t?raw=true) file
