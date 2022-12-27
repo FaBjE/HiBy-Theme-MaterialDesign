@@ -11,7 +11,7 @@
 				"x":20,
 				"y":0,
 				"w":220,
-				"h":40,
+				"h":35,
 				"textview":true
 				},
 			"name":"bt_connect_type_vg_title",
@@ -20,7 +20,7 @@
 			"x":0,
 			"y":0,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -34,7 +34,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -49,9 +49,9 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":40,
+			"y":35,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -65,7 +65,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -80,9 +80,9 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":80,
+			"y":70,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -96,7 +96,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -111,9 +111,9 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":120,
+			"y":105,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -127,7 +127,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -143,9 +143,9 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":160,
+			"y":140,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -159,7 +159,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -175,9 +175,9 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":200,
+			"y":175,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -191,7 +191,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -207,11 +207,43 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":240,
+			"y":210,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
+		"viewgroup":{
+			"textview":{
+				"name":"bt_connect_type_tv_uat_tws",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|h_left",
+				"ini":"bluetooth.ini",
+				"text":"tws",
+				"x":45,
+				"y":0,
+				"w":150,
+				"h":35,
+				"textview":true
+			},
+			"imageview":{
+				"name":"bt_connect_type_iv_uat_tws_select",
+				"img_path":"settings\\select.png",
+				"img_focus_path":"settings\\select_s.png",
+				"x":220,
+				"y":5,
+				"imageview":true
+			},
+			"name":"bt_connect_type_vg_uat_tws",
+			"type":"lg_view",
+			"img_path":"touch_settings\\dialog_item_bg.png",
+			"focus_color":"0x33ffffff",
+			"x":0,
+			"y":245,
+			"w":260,
+			"h":35,
+			"viewgroup":true
+		},		
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_aptx",
@@ -223,7 +255,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -240,7 +272,7 @@
 			"x":0,
 			"y":280,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -254,7 +286,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -269,9 +301,9 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":320,
+			"y":315,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -285,7 +317,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -300,9 +332,9 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":360,
+			"y":350,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -316,20 +348,20 @@
 				"x":0,
 				"y":0,
 				"w":260,
-				"h":40,
+				"h":35,
 				"touch_x":0,
 				"touch_y":0,
 				"touch_w":260,
-				"touch_h":40,
+				"touch_h":35,
 				"textview":true
 			},
 			"name":"bt_connect_type_vg_back",
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":405,
+			"y":400,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"name":"vg_dialog_bt_connect_type",

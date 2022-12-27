@@ -83,6 +83,14 @@
 			"touch_h":74,
 			"imageview":true
 		},
+		"imageview":{
+			"name":"sub_back_iv_cover",
+			"img_path":"sub_back\\cover.png",
+			"x":50,
+			"y":25,
+			"visible":"hide",			
+			"imageview":true
+		},			
 		"name":"vg_sub_back_hiby",
 		"type":"hgl_view",
 		"x":0,

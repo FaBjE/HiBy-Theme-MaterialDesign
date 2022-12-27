@@ -26,6 +26,45 @@
 		},
 		"viewgroup":{
 			"textview":{
+				"name":"online_module_tv_radio",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|h_left",
+				"ini":"tidal.ini",
+				"text":"fm",
+				"x":50,
+				"y":0,
+				"w":150,
+				"h":40,
+				"textview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_radio",
+				"img_path":"touch_set\\label_radio_s.png",
+				"x":10,
+				"y":4,
+				"imageview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_radio_select",
+				"img_path":"touch_settings\\ic_radio.png",
+				"img_focus_path":"touch_settings\\ic_radio_s.png",
+				"x":220,
+				"y":14,
+				"imageview":true
+			},
+			"name":"online_module_vg_radio",
+			"type":"lg_view",
+			"img_path":"touch_settings\\dialog_item_bg.png",
+			"focus_color":"0x33ffffff",
+			"x":0,
+			"y":40,
+			"w":260,
+			"h":40,
+			"viewgroup":true
+		},		
+		"viewgroup":{
+			"textview":{
 				"name":"online_module_tv_tidal",
 				"size":16,
 				"color":"0xececec",
@@ -58,7 +97,7 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":40,
+			"y":80,
 			"w":260,
 			"h":40,
 			"viewgroup":true
@@ -97,21 +136,58 @@
 			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":80,
+			"y":120,
 			"w":260,
 			"h":40,
 			"viewgroup":true
 		},
+		"viewgroup":{
+			"textview":{
+				"name":"online_module_tv_sony",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|left",
+				"ini":"tidal.ini",
+				"text":"sony",
+				"x":50,
+				"y":0,
+				"w":150,
+				"h":40,
+				"textview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_sony",
+				"img_path":"touch_set\\online_sony.png",
+				"x":10,
+				"y":4,
+				"imageview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_sony_select",
+				"img_path":"touch_settings\\ic_radio.png",
+				"img_focus_path":"touch_settings\\ic_radio_s.png",
+				"x":220,
+				"y":14,
+				"imageview":true
+			},
+			"name":"online_module_vg_sony",
+			"type":"lg_view",
+			"x":0,
+			"y":160,
+			"w":260,
+			"h":40,
+			"viewgroup":true
+		},				
 		"name":"vg_dialog_online_module",
 		"type":"hgl_view",
 		"x":0,
 		"y":0,
 		"w":260,
-		"h":120,
+		"h":160,
 		"hglview_x":50,
 		"hglview_y":190,
 		"hglview_w":260,
-		"hglview_h":120,
+		"hglview_h":160,
 		"flag":"dirty",
 		"color":"0x3a3535",
 		"viewgroup":true,

@@ -11,17 +11,16 @@
 				"x":20,
 				"y":0,
 				"w":220,
-				"h":40,
+				"h":35,
 				"textview":true
 				},
 			"name":"bt_connect_type_vg_title",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
 			"y":0,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -35,7 +34,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -48,12 +47,11 @@
 			},
 			"name":"bt_connect_type_vg_audio",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":40,
+			"y":35,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -67,7 +65,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -80,12 +78,11 @@
 			},
 			"name":"bt_connect_type_vg_connect",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":80,
+			"y":70,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -99,7 +96,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -112,12 +109,11 @@
 			},
 			"name":"bt_connect_type_vg_auto",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":120,
+			"y":105,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -131,7 +127,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -144,12 +140,11 @@
 			},
 			"name":"bt_connect_type_vg_uat_1200",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":160,
+			"y":140,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -163,7 +158,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -176,12 +171,11 @@
 			},
 			"name":"bt_connect_type_vg_uat_900",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":200,
+			"y":175,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -195,7 +189,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -208,14 +202,44 @@
 			},
 			"name":"bt_connect_type_vg_uat_600",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":240,
+			"y":210,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
+		"viewgroup":{
+			"textview":{
+				"name":"bt_connect_type_tv_uat_tws",
+				"size":16,
+				"color":"0xececec",
+				"type":"roll|h_left",
+				"ini":"bluetooth.ini",
+				"text":"tws",
+				"x":45,
+				"y":0,
+				"w":150,
+				"h":35,
+				"textview":true
+			},
+			"imageview":{
+				"name":"bt_connect_type_iv_uat_tws_select",
+				"img_path":"touch_settings\\ic_radio.png",
+				"img_focus_path":"touch_settings\\ic_radio_s.png",
+				"x":220,
+				"y":14,
+				"imageview":true
+			},
+			"name":"bt_connect_type_vg_uat_tws",
+			"type":"lg_view",
+			"focus_color":"0x33ffffff",
+			"x":0,
+			"y":245,
+			"w":260,
+			"h":35,
+			"viewgroup":true
+		},		
 		"viewgroup":{
 			"textview":{
 				"name":"bt_connect_type_tv_aptx",
@@ -227,7 +251,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -240,12 +264,11 @@
 			},
 			"name":"bt_connect_type_vg_aptx",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
 			"y":280,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -259,7 +282,7 @@
 				"x":45,
 				"y":0,
 				"w":160,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -272,12 +295,11 @@
 			},
 			"name":"bt_connect_type_vg_aac",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":320,
+			"y":315,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -291,7 +313,7 @@
 				"x":45,
 				"y":0,
 				"w":150,
-				"h":40,
+				"h":35,
 				"textview":true
 			},
 			"imageview":{
@@ -304,12 +326,11 @@
 			},
 			"name":"bt_connect_type_vg_sbc",
 			"type":"lg_view",
-			"img_path":"touch_settings\\dialog_item_bg.png",
 			"focus_color":"0x33ffffff",
 			"x":0,
-			"y":360,
+			"y":350,
 			"w":260,
-			"h":40,
+			"h":35,
 			"viewgroup":true
 		},
 		"viewgroup":{
@@ -323,7 +344,7 @@
 				"x":0,
 				"y":0,
 				"w":90,
-				"h":40,
+				"h":35,
 				"touch_x":0,
 				"touch_y":0,
 				"touch_w":110,
@@ -334,7 +355,7 @@
 			"type":"lg_view",
 			"focus_color":"0x33ffffff",
 			"x":150,
-			"y":405,
+			"y":400,
 			"w":110,
 			"h":40,
 			"viewgroup":true

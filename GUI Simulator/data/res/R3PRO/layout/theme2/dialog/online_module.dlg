@@ -24,6 +24,43 @@
 		},
 		"viewgroup":{
 			"textview":{
+				"name":"online_module_tv_radio",
+				"size":16,
+				"color":"0xFFFFFF",
+				"type":"roll|left",
+				"ini":"tidal.ini",
+				"text":"fm",
+				"x":50,
+				"y":0,
+				"w":180,
+				"h":44,
+				"textview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_radio",
+				"img_path":"module_label\\label_radio.png",
+				"x":10,
+				"y":0,
+				"imageview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_radio_select",
+				"img_path":"settings\\select.png",
+				"img_focus_path":"settings\\select_s.png",
+				"x":247,
+				"y":7,
+				"imageview":true
+			},
+			"name":"online_module_vg_radio",
+			"type":"lg_view",
+			"x":0,
+			"y":80,
+			"w":300,
+			"h":44,
+			"viewgroup":true
+		},		
+		"viewgroup":{
+			"textview":{
 				"name":"online_module_tv_tidal",
 				"size":16,
 				"color":"0xFFFFFF",
@@ -54,7 +91,7 @@
 			"name":"online_module_vg_tidal",
 			"type":"lg_view",
 			"x":0,
-			"y":80,
+			"y":122,
 			"w":300,
 			"h":44,
 			"viewgroup":true
@@ -91,21 +128,60 @@
 			"name":"online_module_vg_qobuz",
 			"type":"lg_view",
 			"x":0,
-			"y":122,
+			"y":166,
 			"w":300,
 			"h":44,
 			"viewgroup":true
 		},
+		"viewgroup":{
+			"textview":{
+				"name":"online_module_tv_sony",
+				"size":16,
+				"color":"0xFFFFFF",
+				"type":"roll|left",
+				"ini":"tidal.ini",
+				"text":"sony",
+				"x":50,
+				"y":0,
+				"w":180,
+				"h":44,
+				"textview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_sony",
+				"img_path":"module_label\\online_sony.png",
+				"x":10,
+				"y":0,
+				"imageview":true
+			},
+			"imageview":{
+				"name":"online_module_iv_sony_select",
+				"img_path":"settings\\select.png",
+				"img_focus_path":"settings\\select_s.png",
+				"x":247,
+				"y":7,
+				"imageview":true
+			},
+			"name":"online_module_vg_sony",
+			"type":"lg_view",
+			"x":0,
+			"y":210,
+			"w":300,
+			"h":44,
+			"viewgroup":true
+		},		
+		
+		
 		"name":"vg_dialog_online_module",
 		"type":"hgl_view",
 		"x":0,
 		"y":0,
 		"w":300,
-		"h":188,
+		"h":250,
 		"hglview_x":30,
 		"hglview_y":156,
 		"hglview_w":300,
-		"hglview_h":188,
+		"hglview_h":250,
 		"flag":"dirty",
 		"color":"0x5b4d5c",
 		"viewgroup":true,

@@ -38,7 +38,9 @@
 		"imageview":{
 			"name":"module_label_iv_radio",
 			"img_path":"module_label\\label_radio.png",
+			"img_path1":"module_label\\label_sony.png",	
 			"img_focus_path":"module_label\\label_radio_s.png",
+			"img_focus_path1":"module_label\\label_sony_s.png",
 			"x":186,
 			"y":20,
 			"touch_x":181,
