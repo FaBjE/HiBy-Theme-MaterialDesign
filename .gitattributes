@@ -1,0 +1,13 @@
+* text=auto
+
+#Force hiby theme files to use linux line endings
+/GUI[[:space:]]Simulator/data/res/R3PRO/** text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.bin binary
+*.otf binary
+*.ttf binary
