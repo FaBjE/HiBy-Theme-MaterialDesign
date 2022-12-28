@@ -30,7 +30,7 @@
 				"type":"roll|left",
 				"ini":"tidal.ini",
 				"text":"fm",
-				"x":50,
+				"x":60,
 				"y":0,
 				"w":180,
 				"h":44,
@@ -39,7 +39,7 @@
 			"imageview":{
 				"name":"online_module_iv_radio",
 				"img_path":"module_label\\label_radio.png",
-				"x":10,
+				"x":0,
 				"y":0,
 				"imageview":true
 			},
@@ -67,7 +67,7 @@
 				"type":"roll|left",
 				"ini":"tidal.ini",
 				"text":"tidal",
-				"x":50,
+				"x":60,
 				"y":0,
 				"w":180,
 				"h":44,
@@ -76,7 +76,7 @@
 			"imageview":{
 				"name":"online_module_iv_tidal",
 				"img_path":"module_label\\online_tidal.png",
-				"x":10,
+				"x":0,
 				"y":0,
 				"imageview":true
 			},
@@ -104,7 +104,7 @@
 				"type":"roll|left",
 				"ini":"tidal.ini",
 				"text":"qobuz",
-				"x":50,
+				"x":60,
 				"y":0,
 				"w":180,
 				"h":44,
@@ -113,7 +113,7 @@
 			"imageview":{
 				"name":"online_module_iv_qobuz",
 				"img_path":"module_label\\online_qobuz.png",
-				"x":10,
+				"x":0,
 				"y":0,
 				"imageview":true
 			},
@@ -141,7 +141,7 @@
 				"type":"roll|left",
 				"ini":"tidal.ini",
 				"text":"sony",
-				"x":50,
+				"x":60,
 				"y":0,
 				"w":180,
 				"h":44,
@@ -150,7 +150,7 @@
 			"imageview":{
 				"name":"online_module_iv_sony",
 				"img_path":"module_label\\online_sony.png",
-				"x":10,
+				"x":0,
 				"y":0,
 				"imageview":true
 			},
