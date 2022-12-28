@@ -10,7 +10,6 @@ If you encounter any issues or have other feedback, feel free to open an [issue]
 ## Improvements
 A lot of (tiny) improvements were made. But the big ones are listed here
 
-* Add Radio module icon on the top "module bar"
 * New player design (Fixed display of album art, no more chopped-off bits)
 * Improved keyboard layout/coloring
 * Scrolling text when text too long (The players firmware doesn't support this in lists unfortunately)
@@ -19,13 +18,21 @@ A lot of (tiny) improvements were made. But the big ones are listed here
 * Made all top-bar icons and labels "Pixelized" instead of weird combination of all sorts of fonts/styles
 * Add extensive phone/line/bluetooth protocol out indicator to top-bar
 * Add music sound quality labels on albumart (instead of strange icons/dots under song title)
-* Removed volume slider from shortcut menu to prevent accidental volume changes [Use buttons on the side ;)]
+* Removed volume slider from shortcut menu to prevent accidental volume changes (Use buttons on the side 😋)
 * Optimized for English language
 * Fixed a lot of tiny things (alignment, touch activation areas etc)
 
 
 ## Changelog
-* Last update: 1-8-2021
+
+**Update: 28-12-2022**
+* Upgraded to base firmware 2.0, legacy versions available in GIT history.
+* Had to remove radio shortcut/tab (due to firmware changes)
+* Fixed "online channel" selection
+* Fixed language selection
+
+
+**Update: 1-8-2021**
 * Add support for playspeed and section repeat functions
 * Upgraded to base firmware 1.6, legacy 1.5 based version available in GIT history.
 * Fixed lyrics display
